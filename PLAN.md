@@ -2,13 +2,13 @@
 
 Independent project, not affiliated with Coval. Text-level evaluation of a customer-support voice agent: simulated callers, an agent under test, an LLM judge.
 
-## Blocker
+## How model calls run
 
-The `claude -p --model haiku` CLI is installed but not logged in (`claude auth status` reports `loggedIn: false`), so no LLM call can run. Nothing below was started. Log in once on this machine, then continue from the first box.
+The `claude` CLI is signed out on this machine and there is no API key, so the network lane runs every caller, agent and judge turn through its own Claude subagents (Agent tool, models haiku, sonnet and opus) and saves the transcripts under `runs/`. The code reads `ANTHROPIC_API_KEY` for anyone re-running it; the README says how the published results were produced.
 
 ## Checklist
 
-- [ ] Verify `claude -p --model haiku|sonnet|opus` works via subprocess
+- [ ] `llm.py`: one call wrapper, Anthropic SDK with `ANTHROPIC_API_KEY`; transcripts from the subagent route saved in the same JSON shape
 - [ ] 30 to 50 caller personas in `personas/*.yaml` (goal, mood, disfluencies, interruptions, ambiguity)
 - [ ] `agent.py`: airline rebooking agent with a fixed system prompt and policy
 - [ ] `caller.py`: LLM-driven simulated caller
