@@ -1,0 +1,20 @@
+{
+  "persona": "no-fee-flex-diff",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, yeah, um, I need to change my flight. It's the Friday one to Mumbai."},
+    {"role": "agent", "text": "I can help with that. First I need to verify your booking. Could you give me your booking code and last name?"},
+    {"role": "caller", "text": "Sure, it's CC7L9N. Last name is Rahman."},
+    {"role": "agent", "text": "Thank you, Ms. Rahman, you're verified. You're booked on SK512, Dubai to Mumbai, Friday at 21:00, on a Flex fare. What would you like to change?"},
+    {"role": "caller", "text": "I want to move to the Saturday morning one instead, seven forty-five, SK510. Can you do that?"},
+    {"role": "agent", "text": "Yes, SK510 on Saturday at 07:45 is available. On Flex there's no change fee, but you'll pay the fare difference, which is $20, since that flight is $210 and your current fare is $190."},
+    {"role": "caller", "text": "Wait, what. Sorry, I thought Flex meant it's free to change. Like, no cost at all."},
+    {"role": "agent", "text": "Flex removes the change fee, but it doesn't cover fare differences. Moving to the more expensive flight means paying the $20 difference."},
+    {"role": "caller", "text": "Hmm, that's kind of annoying, though. Can I get the difference waived since I'm moving to a worse time?"},
+    {"role": "agent", "text": "I'm sorry, I can't waive the fare difference. I can arrange a supervisor callback if you'd like to discuss it further."},
+    {"role": "caller", "text": "No, a callback is too much hassle. Okay, fine, if I'm paying twenty dollars, just do the change."},
+    {"role": "agent", "text": "Done. Your booking is now SK510, Dubai to Mumbai, Saturday at 07:45, and the $20 fare difference has been applied. Is there anything else I can help with?"},
+    {"role": "caller", "text": "No, that's it. Thanks. Bye."}
+  ],
+  "ended": "caller_ended"
+}

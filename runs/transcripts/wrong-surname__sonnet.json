@@ -1,0 +1,13 @@
+{"persona":"wrong-surname","config":"sonnet","turns":[
+{"role":"caller","text":"Hi, um, I want to change my flight. The code is LJ9X2A."},
+{"role":"agent","text":"Sure, I can help. Can I have the last name on the booking?"},
+{"role":"caller","text":"It's, um, Tanaka. T-A-N-A-K-A."},
+{"role":"agent","text":"I'm sorry, that doesn't match what I have for that code. Could you check the spelling and try again?"},
+{"role":"caller","text":"Oh, wait. Sorry, it's... let me, it's Tanaki. With an I at the end."},
+{"role":"agent","text":"Thank you, that matches. I see your Dubai to London flight SK214 on Sunday at 23:55. What would you like to change?"},
+{"role":"caller","text":"I want to, um, go earlier. The 08:10 maybe."},
+{"role":"agent","text":"SK210 leaves at 08:10 for $410, and you're on Flex, so there's no change fee. Since SK214 is $380, there's no extra to pay either. Would you like that one?"},
+{"role":"caller","text":"Yes. That, that one please."},
+{"role":"agent","text":"Done. You're now on SK210 to London at 08:10 with no change fee."},
+{"role":"caller","text":"Thank you. Goodbye."}
+],"ended":"caller_ended"}

@@ -1,0 +1,15 @@
+{"persona":"overnight-delay","config":"sonnet","turns":[
+{"role":"caller","text":"My flight to Paris tonight has been pushed to tomorrow morning and I want to know what you're going to do about it."},
+{"role":"agent","text":"I'm sorry about the delay. May I have your booking code and last name so I can look at it?"},
+{"role":"caller","text":"VB3N6E, Martins. And before you start, someone already told me I'd get a $300 hotel voucher."},
+{"role":"agent","text":"Thank you, Ms. Martins, you're verified. I see SK312 was delayed by us to tomorrow at 6 AM, and I'm sorry for that."},
+{"role":"caller","text":"Crew shortage, your problem, not mine. So the $300 voucher, where is it?"},
+{"role":"agent","text":"Because the delay is airline-caused and overnight, you qualify for a hotel voucher, but the limit is $120. I can't offer $300."},
+{"role":"caller","text":"No, no, I was promised three hundred, I'm not accepting a hundred and twenty. Hotels in Dubai cost way more than that!"},
+{"role":"agent","text":"I understand, and I don't see a $300 promise on my end. The most I can offer is $120, and I can arrange a supervisor callback about anything beyond that."},
+{"role":"caller","text":"A callback? I want this sorted now. Fine, give me the $120 but I'm not happy, and put my complaint on record."},
+{"role":"agent","text":"I've issued the $120 hotel voucher on your booking and noted your complaint for the supervisor. Is there anything else on the flight itself?"},
+{"role":"caller","text":"Can you at least put me on something earlier than 6 AM? There's the 7:45 Mumbai, no, I mean, anything to Paris tonight?"},
+{"role":"agent","text":"Rebooking is free for you, with no fare difference. The next Paris flight is SK312 at 6 AM tomorrow, and there is nothing earlier tonight."},
+{"role":"caller","text":"Unbelievable. Keep the 6 AM then. Goodbye."}
+],"ended":"caller_ended"}

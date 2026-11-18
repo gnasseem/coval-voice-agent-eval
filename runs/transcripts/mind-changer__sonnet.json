@@ -1,0 +1,59 @@
+{
+ "persona": "mind-changer",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, hmm, I want to change my flight to Mumbai. To a morning one, actually..."
+  },
+  {
+   "role": "agent",
+   "text": "Sure. May I have your booking code and last name first?"
+  },
+  {
+   "role": "caller",
+   "text": "It's EF2R7K, Mendes."
+  },
+  {
+   "role": "agent",
+   "text": "Thanks, Ms. Mendes. I see SK510 on Thursday at 07:45 on a Flex fare. Which flight would you like?"
+  },
+  {
+   "role": "caller",
+   "text": "A morning one, hmm, actually, no, can I do the evening?"
+  },
+  {
+   "role": "agent",
+   "text": "The evening flight is SK512 at 21:00. Which day would you like?"
+  },
+  {
+   "role": "caller",
+   "text": "Same day, I guess. Actually, hmm, can you just cancel the whole thing?"
+  },
+  {
+   "role": "agent",
+   "text": "I can cancel it. Since it's a voluntary cancellation, you'd get a travel credit rather than a refund. Would you like me to go ahead?"
+  },
+  {
+   "role": "caller",
+   "text": "Hmm, a credit, not money? Actually, no, wait, don't cancel. Keep the evening one."
+  },
+  {
+   "role": "agent",
+   "text": "No problem, I haven't cancelled anything. Moving to SK512 on Thursday at 21:00 is free on Flex, and the fare is 190 dollars against your 210, so there's no extra charge. Shall I book it?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, hmm, yes please, the evening."
+  },
+  {
+   "role": "agent",
+   "text": "All set. You're now on SK512 Thursday at 21:00 with no fee. Anything else?"
+  },
+  {
+   "role": "caller",
+   "text": "No, that's it, thank you. Bye!"
+  }
+ ],
+ "ended": "caller_ended"
+}

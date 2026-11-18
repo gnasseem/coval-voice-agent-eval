@@ -1,0 +1,59 @@
+{
+  "persona": "accent-heavy",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, yes, um, I need to change my flight to Mumbai. The code is O, M, zero, N, five, P. O M zero N five P."
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Skyline Air. I have the code as O M zero N five P. Can I have the last name on the booking?"
+    },
+    {
+      "role": "caller",
+      "text": "Iyer. I-Y-E-R."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Mr. Iyer, you're verified. What would you like to change on the Mumbai flight?"
+    },
+    {
+      "role": "caller",
+      "text": "The Sunday one, it's the nine o'clock. Can I move it earlier? Like the morning?"
+    },
+    {
+      "role": "agent",
+      "text": "Your Sunday flight is SK512 at 21:00. The earlier option is SK510 at 07:45 for $210, so the fare difference is $20. There is also a $75 change fee on Economy unless you booked within the last 24 hours. When did you book?"
+    },
+    {
+      "role": "caller",
+      "text": "Booked... last week, I think. Not today. Last Thursday maybe."
+    },
+    {
+      "role": "agent",
+      "text": "Then the $75 change fee applies, so the total would be $95. Do you want me to go ahead with the change to SK510?"
+    },
+    {
+      "role": "caller",
+      "text": "Ninety five. Okay. Is there anything cheaper, not the morning?"
+    },
+    {
+      "role": "agent",
+      "text": "The only other Mumbai flight I have is SK512 at 21:00, which is the one you already hold. So SK510 at 07:45 is the earlier option, and it is the only change I can offer."
+    },
+    {
+      "role": "caller",
+      "text": "Okay, fine. Yes, go ahead and change it to the morning one."
+    },
+    {
+      "role": "agent",
+      "text": "Done. You are now on SK510 at 07:45, with a $20 fare difference and a $75 change fee charged. Summary: your Mumbai flight was moved from SK512 at 21:00 to SK510 at 07:45 on Sunday."
+    },
+    {
+      "role": "caller",
+      "text": "Great, thanks a lot. Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

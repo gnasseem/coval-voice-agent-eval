@@ -1,0 +1,59 @@
+{
+ "persona": "inside-2h-real",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, please, I really need your help. I'm on the 11:45 flight to Mumbai today and I can't make it."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry to hear that. Can I have your booking code and last name to start?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, it's TT5K8M, Sato. Hana Sato."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Sato, I have your booking. What would you like to do?"
+  },
+  {
+   "role": "caller",
+   "text": "Could you move me to the 21:00 flight tonight, the SK512? Please, I'm begging you."
+  },
+  {
+   "role": "agent",
+   "text": "I understand how stressful that is. But your flight leaves in under two hours, and we can't make voluntary changes that close to departure."
+  },
+  {
+   "role": "caller",
+   "text": "Please, there must be something. It's just a few hours, I'll pay whatever fee you want."
+  },
+  {
+   "role": "agent",
+   "text": "I'm really sorry, I can't override that, even with a fee. I can offer a supervisor callback if you'd like."
+  },
+  {
+   "role": "caller",
+   "text": "Okay, yes, a supervisor callback, please. Could they call me before the 11:45 leaves?"
+  },
+  {
+   "role": "agent",
+   "text": "I'll request it now and note it's urgent, though I can't promise a time. Anything else I can do?"
+  },
+  {
+   "role": "caller",
+   "text": "No, that's all. Thank you, I know you're trying."
+  },
+  {
+   "role": "agent",
+   "text": "Of course. To sum up, I couldn't change SK510 because it's within two hours of departure, and I've requested an urgent supervisor callback. Take care."
+  },
+  {
+   "role": "caller",
+   "text": "Thanks, goodbye."
+  }
+ ],
+ "ended": "caller_ended"
+}

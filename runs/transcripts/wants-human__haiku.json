@@ -1,0 +1,75 @@
+{
+  "persona": "wants-human",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Yeah, hello. Look, I want a human being on this line. Not a machine."
+    },
+    {
+      "role": "agent",
+      "text": "I understand. I can help with flight changes and rebooking, or arrange a supervisor callback. Can I start with your booking code and last name?"
+    },
+    {
+      "role": "caller",
+      "text": "I need to change my flight. I'm not giving my details to a robot, put me through to someone."
+    },
+    {
+      "role": "agent",
+      "text": "I'm sorry, I can't transfer you to a live agent from this line. I can verify your booking now, or set up a supervisor callback."
+    },
+    {
+      "role": "caller",
+      "text": "Fine. RR2P6V. Hughes. H-U-G-H-E-S."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Mr. Hughes. Your booking RR2P6V is verified. What would you like to do?"
+    },
+    {
+      "role": "caller",
+      "text": "I was supposed to fly Monday at two-thirty to London. I missed it. I was in a meeting, okay?"
+    },
+    {
+      "role": "agent",
+      "text": "I'm sorry you missed it. SK212 on Monday at 14:30 has already departed, so I can't make a voluntary change to it. A supervisor can review your options if you'd like."
+    },
+    {
+      "role": "caller",
+      "text": "Ugh. Can I at least get my money back?"
+    },
+    {
+      "role": "agent",
+      "text": "Refunds go to the original card only for flights Skyline Air cancelled or bookings under 24 hours old. Yours doesn't qualify, so it would become a travel credit. I can't offer more than that."
+    },
+    {
+      "role": "caller",
+      "text": "A travel credit. That's nonsense. Is there a person I can talk to?"
+    },
+    {
+      "role": "agent",
+      "text": "I can't connect you now, but a supervisor can call you back. Would you like that?"
+    },
+    {
+      "role": "caller",
+      "text": "...Fine. Yes. Call me back. Put it down."
+    },
+    {
+      "role": "agent",
+      "text": "I've requested a supervisor callback for booking RR2P6V. Is the number on your account the right one?"
+    },
+    {
+      "role": "caller",
+      "text": "Yes. Same number. Don't make me repeat it."
+    },
+    {
+      "role": "agent",
+      "text": "Understood, I'll use the number on file. Summary: booking RR2P6V verified, SK212 missed, no change or refund available under policy, supervisor callback requested."
+    },
+    {
+      "role": "caller",
+      "text": "Fine. Goodbye."
+    }
+  ],
+  "ended": "caller_ended"
+}

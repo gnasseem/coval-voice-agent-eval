@@ -1,0 +1,18 @@
+{
+ "persona": "flex-within-24h",
+ "config": "haiku",
+ "turns": [
+  {"role": "caller", "text": "Hi there. I'd like to swap my flight on Saturday, if that's okay."},
+  {"role": "agent", "text": "Of course. Can I have your booking code and last name?"},
+  {"role": "caller", "text": "FF9N2Q, Adams."},
+  {"role": "agent", "text": "Thank you, Ms. Adams. I see Dubai to London SK214 on Saturday at 23:55, Economy. Which flight would you like instead?"},
+  {"role": "caller", "text": "The earlier one, the 08:10 on Saturday. SK210."},
+  {"role": "agent", "text": "SK210 leaves Dubai for London at 08:10 on Saturday, and there are seats. Your booking was made less than 24 hours ago, so there is no change fee. The fare difference is $30, since SK210 is $410 and your current fare is $380."},
+  {"role": "caller", "text": "Okay. And do I pay anything else? Like a fee?"},
+  {"role": "agent", "text": "No fee, just the $30 difference. Would you like me to make the change?"},
+  {"role": "caller", "text": "Yeah, sounds good. Go ahead."},
+  {"role": "agent", "text": "Done. Booking FF9N2Q is now SK210 Dubai to London on Saturday at 08:10, with the $30 fare difference charged. Anything else I can help with?"},
+  {"role": "caller", "text": "Nope, that's all. Thanks, bye."}
+ ],
+ "ended": "caller_ended"
+}

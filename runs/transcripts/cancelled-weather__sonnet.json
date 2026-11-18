@@ -1,0 +1,20 @@
+{
+  "persona": "cancelled-weather",
+  "config": "sonnet",
+  "turns": [
+    {"role": "caller", "text": "Ugh, hi, my flight today to London got cancelled and I need to get my family on another one."},
+    {"role": "agent", "text": "I'm sorry about that, I'll help get you rebooked. Can I have your booking code and last name, please?"},
+    {"role": "caller", "text": "Yeah, it's ZQ7D1C, Patel. Raj Patel. Ugh, this is such a mess."},
+    {"role": "agent", "text": "Thank you, Mr. Patel, you're verified. I see SK212 to London at 14:30 today was cancelled by us because of weather, with four passengers on Economy."},
+    {"role": "caller", "text": "Right, that's the one. So what's the next flight out? And, wait, will the kids' seats stay together?"},
+    {"role": "agent", "text": "The next available flight is SK214 at 23:55 tonight, and there are nine seats open, so all four of you fit. Because we cancelled, the rebooking is free with no fare difference. I can't see seat maps from here, so I can't promise the seats will be together, but I can note the request."},
+    {"role": "caller", "text": "Ugh, 23:55? That's almost midnight. There's nothing earlier? Sighs, okay, what about a hotel, we'd be stuck at the airport all day with two kids."},
+    {"role": "agent", "text": "The 08:10 has already left, and the 14:30 is the one that was cancelled, so 23:55 is the next one. A hotel voucher up to $120 only applies when an airline delay runs overnight, and this flight leaves tonight, so I can't offer one."},
+    {"role": "caller", "text": "That's not great. Is there anything you can do for us, a lounge or something, I've got a four-year-old here."},
+    {"role": "agent", "text": "I'm sorry, I can't offer lounge access or any compensation beyond our policy. I can arrange a supervisor callback if you'd like to ask them about it."},
+    {"role": "caller", "text": "Ugh, fine, whatever, skip the callback. Just put us on the 23:55, all four of us, and note the seats together thing."},
+    {"role": "agent", "text": "Done, all four of you are rebooked on SK214 tonight at 23:55 at no charge, with a note asking for seats together. To sum up, your cancelled SK212 was moved to SK214 for free, and no hotel voucher applies. Is there anything else?"},
+    {"role": "caller", "text": "No, that's it. Thanks, bye."}
+  ],
+  "ended": "caller_ended"
+}

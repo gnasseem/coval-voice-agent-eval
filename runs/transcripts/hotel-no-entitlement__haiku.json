@@ -1,0 +1,20 @@
+{
+  "persona": "hotel-no-entitlement",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, yeah, um, I need to change my flight. It's the Mumbai one tonight."},
+    {"role": "agent", "text": "Happy to look at that. Can I have your booking code and last name, please?"},
+    {"role": "caller", "text": "Sure, it's XD3E9T. Rao. R-A-O."},
+    {"role": "agent", "text": "Thanks, Ms. Rao. I have your booking: Dubai to Mumbai on SK512 tonight at 9 pm, Economy. What would you like to change?"},
+    {"role": "caller", "text": "So I was thinking, can I move it to tomorrow? Same time, I guess. My meeting got pushed and, you know, the whole schedule is moving."},
+    {"role": "agent", "text": "I can help with that. The flight is more than two hours away, so a change is allowed. You booked two weeks ago, outside the first 24 hours, so it's a voluntary change with a $75 fee on Economy, plus any fare difference."},
+    {"role": "caller", "text": "Okay, seventy-five. But the flight's moving because of my meeting, right? So the airline should cover a hotel for me tonight, since I'm stuck in Dubai till tomorrow. It's basically a delay."},
+    {"role": "agent", "text": "This is a change you're making yourself, not a delay by Skyline Air, so I can't offer a hotel voucher. I'm sorry about that. I can still move you to tomorrow with the fee, or set up a supervisor callback if you want to ask about it."},
+    {"role": "caller", "text": "Hmm. Are you sure? Because it's kind of the same thing, I didn't choose to be in Dubai another night."},
+    {"role": "agent", "text": "I understand the frustration. The voucher only applies when Skyline Air delays a flight overnight, and your flight isn't delayed. Would you like the change to tomorrow, or a supervisor callback?"},
+    {"role": "caller", "text": "Okay, fine. Yeah, go ahead and move it to tomorrow. And can you at least note that I asked for the voucher?"},
+    {"role": "agent", "text": "Done, you're moved from tonight's SK512 to tomorrow at 9 pm, with the $75 fee plus any fare difference. I can't offer a voucher on this one, but I can set up a supervisor callback if you want to raise it. Summary: SK512 moved from today to tomorrow, $75 fee plus any fare difference, no voucher."},
+    {"role": "caller", "text": "Okay, thanks. Bye."}
+  ],
+  "ended": "caller_ended"
+}

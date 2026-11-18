@@ -1,0 +1,51 @@
+{
+  "persona": "background-noise",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, yeah, it's Beth. Sorry, it's really loud here, I'm at the airport."
+    },
+    {
+      "role": "agent",
+      "text": "Hi Beth, I can help with that. Could I have your booking code and last name first?"
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, what? Oh, it's F, G, 7, J, 1, L. Carter."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you. I have your Dubai to Paris booking on SK312 today at 19:15, in Economy. What would you like to change?"
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, what? Today? Um, yeah, I need to switch to tomorrow. Can you do that?"
+    },
+    {
+      "role": "agent",
+      "text": "Yes, I can look at that. Your flight is today and the booking was made more than 24 hours ago, so a voluntary change costs a 75 dollar fee on Economy, plus any fare difference."
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, what? Okay, sure, that's fine. Can you get me on the nine o'clock?"
+    },
+    {
+      "role": "agent",
+      "text": "The nine o'clock to Paris tomorrow is SK310 at 09:00, Economy at 430 dollars. Today's nine o'clock has already left, so I'll move you to tomorrow's. Shall I confirm the change?"
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, what? Tomorrow, yeah. Yes, go ahead."
+    },
+    {
+      "role": "agent",
+      "text": "You are now on SK310 tomorrow at 09:00 in Economy, with the 75 dollar change fee and the fare difference applied. Is there anything else I can help with?"
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, what? No, that's it. Thanks, bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

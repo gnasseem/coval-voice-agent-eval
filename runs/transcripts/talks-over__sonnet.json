@@ -1,0 +1,15 @@
+{"persona":"talks-over","config":"sonnet","turns":[
+{"role":"caller","text":"Yeah, hi, I need to change my flight, it's tomorrow, no no wait, it's Tuesday, I need the 23:55."},
+{"role":"agent","text":"Sure, I can help. Could I have your booking code and last name?"},
+{"role":"caller","text":"QQ4F8H, Khalil. And no no wait, the flight is Wednesday, my record says Wednesday."},
+{"role":"agent","text":"Thank you, Ms. Khalil. I see SK212 to London, 14:30, and you're on a Flex fare. Which date do you want the new flight on?"},
+{"role":"caller","text":"The same day, no no wait, the day after, the 23:55 one, SK214, I just want SK214."},
+{"role":"agent","text":"Got it, SK214 at 23:55. I want to confirm the date so I get it right. Is it your current travel day or the following day?"},
+{"role":"caller","text":"Tuesday, no no wait, Wednesday, same as my booking, just later in the day."},
+{"role":"agent","text":"So Wednesday on SK214 at 23:55. Since you're on Flex, there's no change fee, and SK214 is $380 against your $455, so no extra charge to you."},
+{"role":"caller","text":"Yes yes, no no wait, will I get money back for the difference?"},
+{"role":"agent","text":"Fare differences are what you pay, and I can't promise a refund of the difference. I can arrange a supervisor callback about that if you'd like."},
+{"role":"caller","text":"Forget it, just do the change, SK214 Wednesday."},
+{"role":"agent","text":"Done. You're now on SK214 on Wednesday at 23:55, with no change fee."},
+{"role":"caller","text":"Thanks, bye."}
+],"ended":"caller_ended"}

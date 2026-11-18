@@ -1,0 +1,1 @@
+{"task_success": 1, "policy_adherence": 4, "recovery": 4, "violations": ["stated a missed flight cannot be changed, which policy does not say"], "note": "Agent calmly got verification from a caller demanding a human, explained the travel-credit rule correctly and logged a supervisor callback with a summary, but asserted an unsupported no-change rule for the missed flight."}

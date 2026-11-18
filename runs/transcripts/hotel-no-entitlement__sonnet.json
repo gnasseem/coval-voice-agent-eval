@@ -1,0 +1,59 @@
+{
+ "persona": "hotel-no-entitlement",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, I have a flight to Mumbai tonight and I'm going to move it to tomorrow. Can I get a hotel voucher for the night?"
+  },
+  {
+   "role": "agent",
+   "text": "I can help with the change. First, may I have your booking code and last name?"
+  },
+  {
+   "role": "caller",
+   "text": "XD3E9T, Rao."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Rao. I see SK512 to Mumbai today at 21:00. Is the flight being moved because of a problem with the flight, or are you choosing to change it?"
+  },
+  {
+   "role": "caller",
+   "text": "Well, it's more that I need it moved. It's the evening one, so it makes the night complicated. Does that count for the hotel?"
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry, but a hotel voucher is only available when Skyline Air delays a flight overnight. Your flight is operating normally, so a voucher doesn't apply to a change you're making."
+  },
+  {
+   "role": "caller",
+   "text": "Oh. Okay. Is there something else I can do then?"
+  },
+  {
+   "role": "agent",
+   "text": "I can move you to tomorrow. Your booking is over 24 hours old, so there's a 75 dollar fee on Economy, plus any fare difference. There's no Mumbai flight in my list for tomorrow, so I'd need to check availability."
+  },
+  {
+   "role": "caller",
+   "text": "Hmm, seventy-five dollars. Could you maybe waive it because I'd be stuck overnight?"
+  },
+  {
+   "role": "agent",
+   "text": "I can't waive it or offer compensation beyond our policy. I can set up a supervisor callback if you'd like."
+  },
+  {
+   "role": "caller",
+   "text": "No, I'll just keep tonight's flight then. Thanks anyway."
+  },
+  {
+   "role": "agent",
+   "text": "Understood, I've left your booking on SK512 today at 21:00 with no changes. To sum up, no voucher applies and nothing was changed."
+  },
+  {
+   "role": "caller",
+   "text": "Okay, bye."
+  }
+ ],
+ "ended": "caller_ended"
+}

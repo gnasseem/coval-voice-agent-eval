@@ -1,0 +1,67 @@
+{
+  "persona": "seats-limited",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, yes, um, I need to change a flight. Actually two flights, well, two bookings. My name is Elena Popova."
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is Skyline Air flight changes. I can help with that. To verify you, please give me the booking code and last name for the first booking."
+    },
+    {
+      "role": "caller",
+      "text": "It's AA1D5V, Popova. And the second one is AB2D6W, that one's under Ivanov, my friend."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Ms. Popova. I have both bookings verified now. What change would you like to make?"
+    },
+    {
+      "role": "caller",
+      "text": "Okay, I want to move to the 14:30, SK212, to London. Both of us, both bookings. Is that possible?"
+    },
+    {
+      "role": "agent",
+      "text": "SK212 leaves Dubai at 14:30 on Thursday, but it has only two Economy seats left. A voluntary change on Economy costs a $75 fee plus the $45 fare difference, so $120 for each booking, unless the booking was made within the last 24 hours, in which case it is free."
+    },
+    {
+      "role": "caller",
+      "text": "A hundred and twenty each? Hm. Okay. Can you check the fee for Ivanov's one, the AB2D6W?"
+    },
+    {
+      "role": "agent",
+      "text": "I can look at that booking under the Ivanov name you gave me. I can't discuss the other passenger's details beyond the change itself. Would you like me to go ahead with your booking, AA1D5V, first?"
+    },
+    {
+      "role": "caller",
+      "text": "Yeah, do mine first. Hurry, I'm in a taxi."
+    },
+    {
+      "role": "agent",
+      "text": "I will change AA1D5V from SK210 to SK212 on Thursday at 14:30, for a total of $120. Do you confirm?"
+    },
+    {
+      "role": "caller",
+      "text": "Um, yes. Wait, hold on, are there two seats? Because Ivanov is on his own booking, so would both of us fit?"
+    },
+    {
+      "role": "agent",
+      "text": "SK212 shows two Economy seats left, which covers both bookings if both are moved now. I can't hold a seat, so it is one change for both or neither."
+    },
+    {
+      "role": "caller",
+      "text": "Ok, neither then. I'll think about it. Bye."
+    },
+    {
+      "role": "agent",
+      "text": "Understood. Nothing has been changed, and both bookings stay on SK210 on Thursday at 08:10. Thank you for calling Skyline Air."
+    },
+    {
+      "role": "caller",
+      "text": "Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

@@ -1,0 +1,67 @@
+{
+  "persona": "talks-over",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, yeah, hi, um, I need to change my flight. Sorry, I'm kind of in a rush."
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is Skyline Air. I can help with that. Could I have your booking code and last name first?"
+    },
+    {
+      "role": "caller",
+      "text": "QQ4F8H, Khalil. Khalil, K-H-A-L-I-L. No no wait, sorry, QQ4F8H, yes."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, your booking is verified. Which flight would you like to move to?"
+    },
+    {
+      "role": "caller",
+      "text": "So I'm on the Dubai to London, the SK212, it's tomorrow, the fourteenth, no wait, the, the fourteen thirty, that's right. But I want to go on SK214, the, the eleven fifty five at night."
+    },
+    {
+      "role": "agent",
+      "text": "Understood. Your record shows SK212 at 14:30 and lists it as both Tuesday and tomorrow Wednesday. Which day is your flight on?"
+    },
+    {
+      "role": "caller",
+      "text": "Wednesday, sorry, Wednesday the, the nineteenth. No wait, yeah, tomorrow is Wednesday, so the nineteenth."
+    },
+    {
+      "role": "agent",
+      "text": "Okay, Wednesday the nineteenth. Your fare is Flex, so there is no change fee. SK214 leaves at 23:55 with Economy seats at $380, which is lower than your current fare, so you won't owe a fare difference. Shall I make that change?"
+    },
+    {
+      "role": "caller",
+      "text": "Wait, no, hold on. You said it's cheaper, so do I get the difference back to my card?"
+    },
+    {
+      "role": "agent",
+      "text": "The difference is not refunded to your card on a voluntary change. It becomes a travel credit under our policy, and I can't offer anything beyond that. If you want to dispute it, I can arrange a supervisor callback."
+    },
+    {
+      "role": "caller",
+      "text": "No no wait, a travel credit? That's ridiculous. Okay, fine, just, just do the change. Oh, and can I get lounge access at Dubai? Sorry, is it the eighteenth, no, the nineteenth, yes."
+    },
+    {
+      "role": "agent",
+      "text": "I can't offer lounge access. I can move you to SK214 on Wednesday the nineteenth at no fee, and the lower fare will be credited as a travel credit. Do you want me to confirm that change?"
+    },
+    {
+      "role": "caller",
+      "text": "Yes, yes, do it. Wait, what's the summary, sorry?"
+    },
+    {
+      "role": "agent",
+      "text": "Your booking QQ4F8H is moved from SK212 at 14:30 to SK214 at 23:55 on Wednesday the nineteenth, with no change fee and a travel credit for the fare difference."
+    },
+    {
+      "role": "caller",
+      "text": "Okay, fine. Thanks, bye. No no wait, bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

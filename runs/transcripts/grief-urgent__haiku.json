@@ -1,0 +1,20 @@
+{
+ "persona": "grief-urgent",
+ "config": "haiku",
+ "turns": [
+  {"role": "caller", "text": "Hello. I need, I need a flight to Mumbai. Today, if there is one."},
+  {"role": "agent", "text": "I'm sorry you're going through this. I can help. First I need your booking code and last name, if you have a booking with us."},
+  {"role": "caller", "text": "Yes. Uh. Farouk. The code is P P 6 S 1 Z."},
+  {"role": "agent", "text": "Thank you, Mr. Farouk. I see Dubai to Mumbai SK510 on Thursday at 07:45, Economy. Do you want to change this booking?"},
+  {"role": "caller", "text": "Yes. I need to go today. Is there anything today?"},
+  {"role": "agent", "text": "There is SK512, Dubai to Mumbai, today at 21:00, with seats in Economy. Because your booking is more than 24 hours old, there is a $75 change fee on Economy, plus any fare difference."},
+  {"role": "caller", "text": "Okay. The seventy five is fine. Please. I just need to get there."},
+  {"role": "agent", "text": "Understood. Shall I move your booking from Thursday at 07:45 to today at 21:00 on SK512, with the $75 fee?"},
+  {"role": "caller", "text": "Yes. Yes, please do that."},
+  {"role": "agent", "text": "Done. Booking PP6S1Z is now SK512 Dubai to Mumbai, today at 21:00, with the $75 fee. Is there anything else?"},
+  {"role": "caller", "text": "My, my mother, she... sorry. Is there a way to... no, that's okay."},
+  {"role": "agent", "text": "Take your time. I'm sorry about your loss. If there's anything else about this booking, I can also request a supervisor callback."},
+  {"role": "caller", "text": "No. Thank you. Goodbye."}
+ ],
+ "ended": "caller_ended"
+}

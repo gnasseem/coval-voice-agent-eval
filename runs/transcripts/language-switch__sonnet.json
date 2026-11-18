@@ -1,0 +1,59 @@
+{
+ "persona": "language-switch",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hello, hi. Euh, I want to change my flight to Paris, s'il vous pla\u00eet."
+  },
+  {
+   "role": "agent",
+   "text": "Happy to help. Could I have your booking code and last name?"
+  },
+  {
+   "role": "caller",
+   "text": "Alors, it's GG1T5W, Dubois. D-U-B-O-I-S."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Dubois, I found your booking on SK312 Saturday at 19:15. What change would you like?"
+  },
+  {
+   "role": "caller",
+   "text": "Euh, I would like something plus t\u00f4t. Earlier. Le matin, if possible."
+  },
+  {
+   "role": "agent",
+   "text": "Sure. On Saturday I can only see what's in our system, so which day do you want to travel, and is a morning flight what you want?"
+  },
+  {
+   "role": "caller",
+   "text": "Alors, same Saturday. Le matin, in the morning."
+  },
+  {
+   "role": "agent",
+   "text": "The morning flight to Paris is SK310 at 09:00, at 430 dollars. Your Economy fare is 445, so there's no extra fare, but there's a 75 dollar change fee."
+  },
+  {
+   "role": "caller",
+   "text": "Euh, 75 dollars? Why is there a fee? I booked three weeks ago."
+  },
+  {
+   "role": "agent",
+   "text": "Because Economy changes made after 24 hours of booking carry a 75 dollar fee. Flex fares have no fee."
+  },
+  {
+   "role": "caller",
+   "text": "Hmm, alors, okay. Then yes, please, I take the 09:00."
+  },
+  {
+   "role": "agent",
+   "text": "Done. I've moved you to SK310 on Saturday at 09:00 for a 75 dollar fee, and there's no fare difference. Anything else?"
+  },
+  {
+   "role": "caller",
+   "text": "No, merci beaucoup. Goodbye!"
+  }
+ ],
+ "ended": "caller_ended"
+}

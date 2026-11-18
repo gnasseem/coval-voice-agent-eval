@@ -1,0 +1,18 @@
+{
+ "persona": "easy-fee-economy",
+ "config": "haiku",
+ "turns": [
+  {"role": "caller", "text": "Hi. Um, I need to change my flight tomorrow."},
+  {"role": "agent", "text": "Happy to help. First I need your booking code and last name."},
+  {"role": "caller", "text": "KX4M2P. Chen."},
+  {"role": "agent", "text": "Thank you, Ms. Chen. I see Dubai to London SK210 tomorrow at 08:10, Economy. What change would you like?"},
+  {"role": "caller", "text": "I was wondering if I could move to the one later that day. The 23:55."},
+  {"role": "agent", "text": "Yes, SK214 leaves Dubai for London at 23:55 the same day, and there are seats. Because your booking is more than 24 hours old, there is a $75 change fee on Economy. SK214 is $380, less than your current fare, so there is no fare difference to pay. Do you want to go ahead?"},
+  {"role": "caller", "text": "Okay. So what's the total I pay? Just the seventy five?"},
+  {"role": "agent", "text": "Yes, $75 in total. Shall I confirm the change?"},
+  {"role": "caller", "text": "Yes, go ahead."},
+  {"role": "agent", "text": "Done. Booking KX4M2P is now SK214 Dubai to London tomorrow at 23:55, with the $75 fee. Is there anything else?"},
+  {"role": "caller", "text": "That's it. Thanks, bye."}
+ ],
+ "ended": "caller_ended"
+}

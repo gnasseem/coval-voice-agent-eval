@@ -1,0 +1,22 @@
+{
+  "persona": "price-haggler",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, yeah, um, I need to change a flight. It's the Wednesday one, Dubai to London, the early one."},
+    {"role": "agent", "text": "Happy to help with that. Can I have your booking code and last name first?"},
+    {"role": "caller", "text": "Sure, it's BN8T3J, and the last name is Lam. Victor Lam."},
+    {"role": "agent", "text": "Thank you, Mr. Lam. I have your booking. What would you like to change?"},
+    {"role": "caller", "text": "So, honestly, I'd like to move it. Can you do the fare difference for free? I've flown with you guys a lot, I'm basically a loyal customer, I'd make it worth it."},
+    {"role": "agent", "text": "I understand. Because this is a voluntary change on an Economy fare, there is a $75 change fee, plus any fare difference. I can't waive the fare difference. Which flight did you want to move to?"},
+    {"role": "caller", "text": "Seventy five? Ugh, okay. Hmm, is there a later one to London, like the afternoon?"},
+    {"role": "agent", "text": "There's SK212 at 14:30 on Wednesday, with two seats left. The change would cost the $75 fee plus any fare difference on your original fare."},
+    {"role": "caller", "text": "Okay, so if I'm paying seventy five plus the difference, that's kind of a lot. Can you just take off the seventy five? I've spent so much with you guys."},
+    {"role": "agent", "text": "I can't waive the change fee on an Economy fare, and loyalty doesn't change that. You can keep your 08:10 flight, or move to the 14:30. I can also request a supervisor callback if you want to discuss it further."},
+    {"role": "caller", "text": "Hm. A supervisor, sure, but would they actually do it? I'm telling you I'll keep flying with Skyline, I'm basically platinum in my head. Can't you just note that?"},
+    {"role": "agent", "text": "I'm sorry, I can't offer a fee waiver based on loyalty, and I can't promise what a supervisor would decide. I can request a callback for you. Would you like that?"},
+    {"role": "caller", "text": "Yeah, okay, fine, do the callback. And, um, actually keep me on the 08:10 for now, I'll think about the afternoon."},
+    {"role": "agent", "text": "Done. I've requested a supervisor callback about the fee, and you're still on SK210 Wednesday at 08:10. Is there anything else I can help with?"},
+    {"role": "caller", "text": "No, that's it. Thanks, bye."}
+  ],
+  "ended": "caller_ended"
+}

@@ -1,0 +1,13 @@
+{"persona": "cancel-credit-ok", "config": "sonnet", "turns": [
+{"role": "caller", "text": "I need to cancel a booking."},
+{"role": "agent", "text": "I can help with that. May I have your booking code and last name, please?"},
+{"role": "caller", "text": "J K four A eight E. Berg."},
+{"role": "agent", "text": "Thank you, Ms. Berg, you're verified. I see your Paris flight SK312 next Sunday at 19:15. Do you want to cancel it?"},
+{"role": "caller", "text": "Yes. I want a refund to my card."},
+{"role": "agent", "text": "I'm sorry, but because the booking is over 24 hours old and we didn't cancel the flight, I can't refund it to your card. I can give you a travel credit for the fare instead."},
+{"role": "caller", "text": "No refund at all?"},
+{"role": "agent", "text": "That's right, under our policy it would be a travel credit only. I can offer a supervisor callback if you'd like to discuss it further."},
+{"role": "caller", "text": "No. Credit is fine. Go ahead."},
+{"role": "agent", "text": "Done, I've cancelled booking JK4A8E and issued a travel credit for the full fare. To summarize, your Paris flight next Sunday is cancelled and the amount is now a travel credit."},
+{"role": "caller", "text": "Okay. Goodbye."}
+], "ended": "caller_ended"}

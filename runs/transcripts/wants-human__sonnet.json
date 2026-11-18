@@ -1,0 +1,15 @@
+{"persona":"wants-human","config":"sonnet","turns":[
+{"role":"caller","text":"Is this a machine? I want to talk to a real person."},
+{"role":"agent","text":"I'm the automated phone agent for Skyline Air, but I can help with changes and rebooking. Can I have your booking code and last name?"},
+{"role":"caller","text":"I said a person. I'm not talking to a computer."},
+{"role":"agent","text":"I understand. I can't connect you to a live agent from here, but I can request a supervisor callback. Or I can help now if you give me your booking code and last name."},
+{"role":"caller","text":"No. Get me a human. Right now."},
+{"role":"agent","text":"I'm sorry, I can't transfer you directly. A supervisor callback is the option I have, and I can set that up for you."},
+{"role":"caller","text":"A callback, how long does that take?"},
+{"role":"agent","text":"I don't have a set time to promise you, I'm sorry. I'd need your booking code and last name first to note it on your booking."},
+{"role":"caller","text":"Fine, RR2P6V, Hughes."},
+{"role":"agent","text":"Thank you, Mr. Hughes. I see your Monday 14:30 SK212 flight. What should the supervisor call you about?"},
+{"role":"caller","text":"I want a person to deal with it. I'll tell them myself. Call my number on file."},
+{"role":"agent","text":"Done. I've requested a supervisor callback to the number on file, and no changes were made to your booking."},
+{"role":"caller","text":"Fine. Goodbye."}
+],"ended":"caller_ended"}

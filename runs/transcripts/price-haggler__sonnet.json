@@ -1,0 +1,15 @@
+{"persona":"price-haggler","config":"sonnet","turns":[
+{"role":"caller","text":"Hi there, hope you're having a lovely day! I'd like to change my London flight for tomorrow, if that's alright."},
+{"role":"agent","text":"Happy to help. May I have your booking code and last name first?"},
+{"role":"caller","text":"Sure, it's BN8T3J, and the name is Lam, Victor Lam."},
+{"role":"agent","text":"Thank you, Mr. Lam, you're verified. I see SK210 tomorrow at 8:10 AM in Economy. What change would you like?"},
+{"role":"caller","text":"I'd like the afternoon one instead, the 2:30. I've flown with you folks for years, so I was hoping you'd waive the fare difference."},
+{"role":"agent","text":"The SK212 at 2:30 PM is $455 versus your $410, so there's a $45 fare difference. Since you booked a week ago on Economy, there's also a $75 change fee."},
+{"role":"caller","text":"Oh, a hundred and twenty all in! Come on, I'm a loyal customer, surely you can make the $45 go away. I'll make it worth your while, I fly with you every month."},
+{"role":"agent","text":"I appreciate your loyalty, Mr. Lam, but I can't waive the fare difference or the fee. I can offer a supervisor callback if you'd like to raise it."},
+{"role":"caller","text":"Hmm. What if I just took the 11:55 PM one tomorrow night? That's cheaper, isn't it?"},
+{"role":"agent","text":"Yes, SK214 at 11:55 PM is $380, which is $30 less than your fare. The $75 change fee still applies, and I'm not sure the $30 difference would be refunded, so a travel credit would be the likely result."},
+{"role":"caller","text":"Ah, so no savings really. Okay, I'll keep my original flight then, no change. Thanks for being so honest."},
+{"role":"agent","text":"No problem. To sum up, no changes were made and your booking on SK210 tomorrow at 8:10 AM stays as is."},
+{"role":"caller","text":"Lovely, thanks very much, goodbye!"}
+],"ended":"caller_ended"}

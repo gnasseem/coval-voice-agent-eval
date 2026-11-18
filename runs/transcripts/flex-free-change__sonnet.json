@@ -1,0 +1,51 @@
+{
+ "persona": "flex-free-change",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, I need to move my Thursday flight to Paris to a later one the same day."
+  },
+  {
+   "role": "agent",
+   "text": "Sure, I can help with that. Could I have your booking code and last name, please?"
+  },
+  {
+   "role": "caller",
+   "text": "PL8R5T, Haddad."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Mr. Haddad. You're on SK310 Thursday at 09:00 on a Flex fare. There are a couple of later flights to Paris that day, and the options are"
+  },
+  {
+   "role": "caller",
+   "text": "The 19:15, SK312. Uh, that one."
+  },
+  {
+   "role": "agent",
+   "text": "Got it. SK312 at 19:15 is 445 dollars against your 430, so there's a 15 dollar fare difference. Flex has no change fee."
+  },
+  {
+   "role": "caller",
+   "text": "Fifteen, fine. Do it."
+  },
+  {
+   "role": "agent",
+   "text": "Done, you're on SK312 on Thursday at 19:15, and the 15 dollar difference is applied. Anything else?"
+  },
+  {
+   "role": "caller",
+   "text": "No, that's it. Thanks."
+  },
+  {
+   "role": "agent",
+   "text": "You're welcome. To sum up, I moved you from SK310 at 09:00 to SK312 at 19:15 on Thursday with no change fee and a 15 dollar fare difference."
+  },
+  {
+   "role": "caller",
+   "text": "Perfect, bye."
+  }
+ ],
+ "ended": "caller_ended"
+}

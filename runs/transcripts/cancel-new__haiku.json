@@ -1,0 +1,20 @@
+{
+  "persona": "cancel-new",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, I think I booked a flight by mistake this morning and I need to sort it out."},
+    {"role": "agent", "text": "I can help with that. First I need to verify the booking. Can you give me your booking code and last name?"},
+    {"role": "caller", "text": "Sure, the code is HH5M2U. Last name is Becker."},
+    {"role": "agent", "text": "Thank you, Mr. Becker. I have your booking: Dubai to London, flight SK214 on Sunday at 23:55, Economy. What would you like to do with it?"},
+    {"role": "caller", "text": "I booked it about three hours ago by accident. Can I get a refund to my card?"},
+    {"role": "agent", "text": "Yes. Because the booking is less than 24 hours old, I can refund it to the original card. There is no cancellation fee in this case. Shall I cancel the flight?"},
+    {"role": "caller", "text": "Okay. How much will I get back?"},
+    {"role": "agent", "text": "The full fare of $380 goes back to your original card. Do you want me to go ahead and cancel now?"},
+    {"role": "caller", "text": "Yes, please cancel it."},
+    {"role": "agent", "text": "Done. Booking HH5M2U is cancelled and the refund goes to your original card. Is there anything else I can help with?"},
+    {"role": "caller", "text": "No, that's everything. Thanks so much."},
+    {"role": "agent", "text": "Summary: booking HH5M2U, SK214 Dubai to London, cancelled and $380 refunded to the original card. Have a good day, Mr. Becker."},
+    {"role": "caller", "text": "Thanks, bye."}
+  ],
+  "ended": "caller_ended"
+}

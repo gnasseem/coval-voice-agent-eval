@@ -1,0 +1,59 @@
+{
+  "persona": "within-2-hours",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Yeah, hi, Skyline. I need to move my flight. SK212, it leaves at eleven thirty, so can you put me on something later?"
+    },
+    {
+      "role": "agent",
+      "text": "I can look into that. First I need to verify your booking. Please give me your booking code and last name."
+    },
+    {
+      "role": "caller",
+      "text": "QW9E4R. Aziz. Look, it's leaving in a couple hours, so just, can you move me?"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Mr. Aziz. Your SK212 to London leaves at 14:30 today, not 11:30, so you have about four and a half hours. Economy changes cost $75 plus any fare difference, unless you booked within the last 24 hours. Do you know when you booked?"
+    },
+    {
+      "role": "caller",
+      "text": "Booked? Uh, I don't know, last week? Just tell me what's leaving today. What's the earliest?"
+    },
+    {
+      "role": "agent",
+      "text": "Today's remaining London flights are SK212 at 14:30 and SK214 at 23:55. SK214 is Economy at $380 with nine seats available. Nothing earlier than 14:30 is left today."
+    },
+    {
+      "role": "caller",
+      "text": "Eleven thirty, I said eleven thirty. Okay, the twenty three fifty five, that's midnight, that's, no. Is there any refund if I, what's the, if I don't go?"
+    },
+    {
+      "role": "agent",
+      "text": "A refund to your card only applies to flights we cancel or to bookings under 24 hours old. Otherwise the amount becomes a travel credit. A voluntary change on this booking carries the $75 fee if it was made more than 24 hours ago."
+    },
+    {
+      "role": "caller",
+      "text": "Travel credit. That's no good. Okay, forget it, I'm not doing midnight. Is the fourteen thirty delayed? Check that."
+    },
+    {
+      "role": "agent",
+      "text": "I have no delay recorded for SK212, so it is on schedule for 14:30. If you need to change flights, I can arrange a supervisor callback."
+    },
+    {
+      "role": "caller",
+      "text": "Callback? When? I need to know now, I can't wait for a callback."
+    },
+    {
+      "role": "agent",
+      "text": "I can't give you a callback time from this call. You can keep your 14:30 booking as it is, or I can request the callback. Which would you like?"
+    },
+    {
+      "role": "caller",
+      "text": "Keep it. Fine. Keep it. Okay, thanks, bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

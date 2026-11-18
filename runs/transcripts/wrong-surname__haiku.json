@@ -1,0 +1,75 @@
+{
+  "persona": "wrong-surname",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, um, yes, I need to change my, my flight. The booking code is LJ9X2A. Last name is Tanaka. Sorry, Tanaka."
+    },
+    {
+      "role": "agent",
+      "text": "Thanks. I have booking code LJ9X2A, but the last name doesn't match Tanaka exactly. Could you spell your last name for me, letter by letter?"
+    },
+    {
+      "role": "caller",
+      "text": "Oh, okay. T, A, N, A... K, A. Tanaka. I think that's right?"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you. I still need the last name exactly as it appears on the booking. Could you spell it one more time?"
+    },
+    {
+      "role": "caller",
+      "text": "Sorry, um. T-A-N-A-K-I. Tanaki. Yes, Tanaki, that's right. I'm sorry."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, I have your booking verified now. What would you like to change?"
+    },
+    {
+      "role": "caller",
+      "text": "So I'm on the, the Sunday flight, the eleven fifty-five at night to London. I'd like to move to, to an earlier one if I can."
+    },
+    {
+      "role": "agent",
+      "text": "Your flight is SK214 from Dubai to London this Sunday at 23:55, on a Flex fare. On Flex there is no change fee, but you pay any fare difference. Which earlier flight did you have in mind?"
+    },
+    {
+      "role": "caller",
+      "text": "Um, the eight-ten in the morning? SK210? Is there, is there still space on that one?"
+    },
+    {
+      "role": "agent",
+      "text": "Yes, SK210 leaves Dubai at 08:10 on Sunday and has seats. It is $410 in Economy, compared with $380 for your current flight, so the fare difference would be about $30."
+    },
+    {
+      "role": "caller",
+      "text": "Thirty dollars? Okay. And the change itself is free because it's Flex, right? Sorry, I'm a little confused."
+    },
+    {
+      "role": "agent",
+      "text": "Yes, there is no change fee on Flex. Only the $30 fare difference applies. Shall I move you to SK210 on Sunday at 08:10?"
+    },
+    {
+      "role": "caller",
+      "text": "Sunday, yes? Same day, not Monday?"
+    },
+    {
+      "role": "agent",
+      "text": "Same day, Sunday. I would change LJ9X2A from SK214 at 23:55 to SK210 at 08:10, with a $30 fare difference. Say yes to confirm."
+    },
+    {
+      "role": "caller",
+      "text": "Yes. Yes, go ahead, please."
+    },
+    {
+      "role": "agent",
+      "text": "Done. Booking LJ9X2A is now on SK210, Dubai to London, Sunday at 08:10. Summary: moved from SK214 to SK210 on Sunday with a $30 fare difference. Anything else I can help with?"
+    },
+    {
+      "role": "caller",
+      "text": "No, that's it. Thank you. Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

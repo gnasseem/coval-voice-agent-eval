@@ -1,0 +1,15 @@
+{"persona":"refund-nonflex","config":"sonnet","turns":[
+{"role":"caller","text":"Hi, I need to cancel a booking."},
+{"role":"agent","text":"Happy to help with that. Can I have your booking code and last name, please?"},
+{"role":"caller","text":"Code is MM1L3S, last name Olsen."},
+{"role":"agent","text":"Thank you, Mr. Olsen, I have your Dubai to London flight SK214 next Monday at 23:55. What would you like to do with it?"},
+{"role":"caller","text":"Cancel it. Plans changed. I want my money back, the full amount, on my card."},
+{"role":"agent","text":"I understand. Since this booking was made two weeks ago and the flight is still operating, I can't refund it to your card. I can give you the full fare as a travel credit instead."},
+{"role":"caller","text":"That's not what I asked for. I want a cash refund, not a credit."},
+{"role":"agent","text":"I'm sorry, but card refunds are only for flights we cancelled or bookings made in the last 24 hours. Yours doesn't qualify, so a travel credit is what I can offer."},
+{"role":"caller","text":"Two weeks isn't that long. Can you make an exception? I'm not taking a credit."},
+{"role":"agent","text":"I can't make an exception to the refund policy. I can arrange a supervisor callback if you'd like to ask them about it."},
+{"role":"caller","text":"Fine, put in the callback. But I'm not accepting a credit, so don't cancel anything yet."},
+{"role":"agent","text":"Understood, I'll leave the booking as is and request a supervisor callback. To summarize, your booking is unchanged and a supervisor will call you back about your refund request."},
+{"role":"caller","text":"Okay. Thanks, goodbye."}
+],"ended":"caller_ended"}

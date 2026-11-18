@@ -1,0 +1,15 @@
+{"persona":"seats-limited","config":"sonnet","turns":[
+{"role":"caller","text":"Hi, I need to move two of us to the 14:30 London flight, SK212, and I'm in a hurry."},
+{"role":"agent","text":"I can help with that. Can I have the booking code and last name for the first booking?"},
+{"role":"caller","text":"AA1D5V, Popova. Oh, and my friend's is AB2D6W, that's Ivanov."},
+{"role":"agent","text":"Thanks, I have both codes and surnames. I'm looking at SK212 now, and it has exactly two seats left at $455 Economy."},
+{"role":"caller","text":"Great, two seats is what we need. Put us both on it, please."},
+{"role":"agent","text":"Your current flight is SK210 on Thursday at 08:10 at $410, so moving costs a $75 change fee plus a $45 fare difference. Mr. Ivanov's booking would need its own fee and fare difference, depending on his fare."},
+{"role":"caller","text":"Yes, fine, whatever the fees are. Just don't lose those seats, there are only two."},
+{"role":"agent","text":"Understood. I can only make changes to each booking after verifying it, and both are verified, so I'll move Ms. Popova's booking first. Do you confirm the $120 total for your booking?"},
+{"role":"caller","text":"Yes, confirmed. Now my friend's one right after, please."},
+{"role":"agent","text":"Done, you're now on SK212 Thursday at 14:30, one seat left. For Mr. Ivanov's booking, I'll move it to the last seat on SK212 and the fee and fare difference will be charged on his booking. Do you confirm?"},
+{"role":"caller","text":"Yes, go ahead, quickly please."},
+{"role":"agent","text":"Both bookings are now on SK212 Thursday at 14:30, with the change fees and fare differences applied. Anything else?"},
+{"role":"caller","text":"No, that's it. Thanks, bye."}
+],"ended":"caller_ended"}

@@ -1,0 +1,11 @@
+{"persona": "multi-request", "config": "haiku", "turns": [
+{"role": "caller", "text": "Hi, yeah, so, um, I need to change my flight, the code is DD4H8X, Malik, Hassan Malik. Also I need to add a bag, and the name on it is spelled wrong, and can I get a receipt, I'm in a bit of a rush."},
+{"role": "agent", "text": "Thanks, Mr. Malik, I have booking DD4H8X under Malik. Your flight is SK210 Dubai to London this Friday at 08:10 in Economy. Which flight would you like to move to?"},
+{"role": "caller", "text": "Uh, the night one, like the 23:55, if that's, you know, possible. Is there a fee, because I was told there's no fee?"},
+{"role": "agent", "text": "Since you booked two weeks ago, a voluntary change on Economy has a $75 fee. Moving to SK214 at 23:55 Friday has no fare difference, so the total is $75. I can't waive that fee on this call."},
+{"role": "caller", "text": "Okay, seventy-five, fine. And the bag, can I add the bag now, and the name, it's M-A-L-E-K on the thing, it should be I-K, and, sorry, the receipt, I need that for work."},
+{"role": "agent", "text": "I can change the flight today, but I can't add a bag, correct the name spelling, or issue a receipt on this call. I can arrange a supervisor callback for those requests. Would you like me to confirm the change to SK214 at $75?"},
+{"role": "caller", "text": "Yeah, yes, do the flight. Seventy-five on the card. Can the supervisor call me, like, today?"},
+{"role": "agent", "text": "I'll note the callback request for the supervisor covering the bag, the name spelling and the receipt. Your booking DD4H8X is now on SK214 Dubai to London at 23:55 this Friday, with the $75 change fee. Is there a number they should call?"},
+{"role": "caller", "text": "Yeah, the same one, I guess. Okay, thanks. Bye."}
+], "ended": "caller_ended"}

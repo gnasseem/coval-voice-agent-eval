@@ -1,0 +1,51 @@
+{
+  "persona": "cancel-credit-ok",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Yeah, hi. I need to cancel a booking."
+    },
+    {
+      "role": "agent",
+      "text": "I can help with that. First I need your booking code and the last name on the booking."
+    },
+    {
+      "role": "caller",
+      "text": "JK4A8E. Berg."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, I have your booking. It's Dubai to Paris on SK312, next Sunday at 19:15, in Economy. What would you like to do with it?"
+    },
+    {
+      "role": "caller",
+      "text": "I want to cancel it. Can I get the money back on my card?"
+    },
+    {
+      "role": "agent",
+      "text": "Refunds to the original card are only for flights we cancelled or for bookings made in the last 24 hours. This booking was made 9 days ago and we did not cancel the flight, so it would become a travel credit. A voluntary cancellation on an Economy fare also carries a $75 fee."
+    },
+    {
+      "role": "caller",
+      "text": "Seventy-five dollars just to cancel. Fine. So I get the rest as credit?"
+    },
+    {
+      "role": "agent",
+      "text": "Yes, the fare you paid becomes a travel credit, less the $75 fee. Do you want me to go ahead and cancel SK312 on booking JK4A8E?"
+    },
+    {
+      "role": "caller",
+      "text": "Yes. Go ahead."
+    },
+    {
+      "role": "agent",
+      "text": "Your booking JK4A8E on SK312 is cancelled, with the fare held as a travel credit less the $75 fee."
+    },
+    {
+      "role": "caller",
+      "text": "Fine. Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

@@ -1,0 +1,13 @@
+{"persona":"within-2-hours","config":"sonnet","turns":[
+{"role":"caller","text":"Hi, I need to move my flight, it leaves in a couple hours, I need something later."},
+{"role":"agent","text":"I can help. Can I have your booking code and last name?"},
+{"role":"caller","text":"QW9E4R, Aziz. It's the 11:30 to London, SK212."},
+{"role":"agent","text":"Thank you, Mr. Aziz. I show SK212 departing at 14:30 today, not 11:30. It's currently 10:00, so that's four and a half hours away."},
+{"role":"caller","text":"Oh, I thought it was 11:30. Anyway, move me to the evening, whatever you've got."},
+{"role":"agent","text":"We have SK214 to London at 23:55 tonight for $380, and since your Economy fare is $455 and you're past 24 hours, the change fee is $75. Would you like that?"},
+{"role":"caller","text":"What, I pay $75? Fine. And the fare difference, do I get that back?"},
+{"role":"agent","text":"The fare difference is paid by you, and when the new fare is lower I can't promise a refund of the difference. I can arrange a supervisor callback about that if you'd like."},
+{"role":"caller","text":"No, forget it. Just do the change, quick, I have to go."},
+{"role":"agent","text":"Done. You're now on SK214 tonight at 23:55 with a $75 change fee."},
+{"role":"caller","text":"Okay, thanks, bye."}
+],"ended":"caller_ended"}

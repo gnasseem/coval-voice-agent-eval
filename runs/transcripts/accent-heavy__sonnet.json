@@ -1,0 +1,15 @@
+{"persona": "accent-heavy", "config": "sonnet", "turns": [
+{"role": "caller", "text": "Hello, yes, I would like to change my flight to Mumbai, please."},
+{"role": "agent", "text": "Happy to help with that. First I need to verify you, so may I have your booking code and last name?"},
+{"role": "caller", "text": "Yes. The code is O, M, zero, N, five, P. Oh, em, zero, en, five, pee."},
+{"role": "agent", "text": "Thank you. I heard O, M, zero, N, five, P, and the last name please?"},
+{"role": "caller", "text": "Iyer. I, Y, E, R. Iyer."},
+{"role": "agent", "text": "Thanks, Mr. Iyer, you're verified. Which change would you like to make on your Sunday Mumbai flight?"},
+{"role": "caller", "text": "I want to go on Saturday instead, the evening one, if there is. Sorry, you said the code was M, N? I think you may have heard it as N, M."},
+{"role": "agent", "text": "No problem, the code I have matches what you gave, O, M, zero, N, five, P. For Saturday I'm afraid I only see the Sunday SK512 at 21:00 and the SK510 at 07:45, so I can't confirm a Saturday flight from here."},
+{"role": "caller", "text": "Oh. Then the Sunday morning one, the seven forty-five. Is that possible? And what is the cost?"},
+{"role": "agent", "text": "Yes, SK510 at 07:45 is available. Your fare is Economy, so the change fee is $75, plus the fare difference, which is $210 for that flight against your current $190, so $20 more."},
+{"role": "caller", "text": "So seventy-five and twenty, ninety-five dollars total. Okay, that is acceptable. Please do it."},
+{"role": "agent", "text": "Done, I've moved you to SK510 on Sunday at 07:45 and the $95 will go on your card on file. To summarize, your booking OM0N5P is now on SK510, Sunday 07:45."},
+{"role": "caller", "text": "Thank you very much. Goodbye."}
+], "ended": "caller_ended"}

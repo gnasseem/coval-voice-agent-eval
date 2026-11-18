@@ -1,0 +1,28 @@
+{
+  "persona": "cancelled-weather",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, yeah, um, our flight got cancelled. It's the Dubai to London one today, SK212. Ugh."},
+    {"role": "agent", "text": "I'm sorry to hear that, I can help with it. First I need to verify the booking. Can you give me your booking code and the last name on it?"},
+    {"role": "caller", "text": "Okay, it's ZQ7D1C, last name Patel. Sorry, hang on, my kids are... okay. Go ahead."},
+    {"role": "agent", "text": "Thank you, Mr. Patel. I can see SK212 today at 14:30 was cancelled by Skyline Air due to weather. Since we cancelled it, I can rebook you on the next available flight at no cost."},
+    {"role": "caller", "text": "Okay, good. Wait, is there a flight today? We need to get to London today. And it's four of us. Ugh."},
+    {"role": "agent", "text": "Yes, there is SK214 tonight at 23:55, with economy seats available for four. The rebooking is free with no fare difference. Would you like me to move all four of you to that flight?"},
+    {"role": "caller", "text": "23:55? That's so late. Is there nothing earlier? And the kids, can they sit together on that one?"},
+    {"role": "agent", "text": "The earliest flight from Dubai to London with seats today is SK214 at 23:55. I can't confirm seat assignments on the phone, so you may want to check at check-in whether the kids are seated together. Shall I rebook the four of you on SK214?"},
+    {"role": "caller", "text": "Ugh, okay, fine. So we're just stuck at the airport all day? Can you do a hotel or something?"},
+    {"role": "agent", "text": "A hotel voucher only applies when an airline-caused delay runs overnight. Since the new flight leaves tonight, a voucher doesn't apply. Would you like me to rebook you on SK214?"},
+    {"role": "caller", "text": "The kids are going to be exhausted. What about tomorrow morning, the SK210 at 8:10?"},
+    {"role": "agent", "text": "SK210 tomorrow at 08:10 is a different day, and the next available flight is SK214 tonight. I can arrange a supervisor callback if you want to ask about other options. Would you like me to rebook you on SK214 now?"},
+    {"role": "caller", "text": "Ugh. Okay, just do SK214. Wait, is the rebooking really free? We paid a lot for these."},
+    {"role": "agent", "text": "Yes, since Skyline Air cancelled the flight, rebooking to SK214 is free with no fare difference. I'm rebooking booking ZQ7D1C for four passengers on SK214, Dubai to London, tonight at 23:55. Is that correct?"},
+    {"role": "caller", "text": "Yes, yes. Okay. Also, if we don't want to go, do we get a refund on the original ticket?"},
+    {"role": "agent", "text": "Yes, because Skyline Air cancelled SK212, a refund would go to the original card if you choose not to travel. Your four seats on SK214 tonight are booked, so you keep that unless you ask for the refund."},
+    {"role": "caller", "text": "Ugh, okay. Thanks. Oh, one more thing, can you upgrade us to business? Since it's so late?"},
+    {"role": "agent", "text": "I'm sorry, I can't offer upgrades under this policy. I can arrange a supervisor callback if you'd like to ask about that."},
+    {"role": "caller", "text": "No, that's fine. Just... thanks. Bye."},
+    {"role": "agent", "text": "You're welcome. Summary: booking ZQ7D1C for four passengers was moved from cancelled SK212 to SK214 tonight at 23:55 at no cost. Have a safe trip."},
+    {"role": "caller", "text": "Bye."}
+  ],
+  "ended": "caller_ended"
+}

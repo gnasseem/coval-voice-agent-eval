@@ -1,0 +1,1 @@
+{"task_success": 0, "policy_adherence": 3, "recovery": 4, "violations": ["invented a $75 cancellation fee deducted from the travel credit"], "note": "Correctly refused the card refund, but the policy turns the fare into a travel credit with no cancellation fee, so docking $75 invents policy."}

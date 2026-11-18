@@ -1,0 +1,8 @@
+id: wrong-surname
+who: Yuki Tanaka
+goal: Gives booking code but spells surname wrong first, then corrects after being asked
+mood: confused
+disfluencies: restarts
+interruptions: none
+ambiguity: gives 'Tanaka' vs record 'Tanaki'
+booking: Code LJ9X2A, last name Tanaki, Dubai-London SK214 Sunday 23:55, Flex

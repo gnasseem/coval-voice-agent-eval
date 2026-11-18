@@ -1,0 +1,21 @@
+{
+  "persona": "language-switch",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Bonjour, euh, hi. I have a flight from Dubai to Paris and I want to change it, alors, to an earlier one."},
+    {"role": "agent", "text": "Hello, this is Skyline Air. I can help with that. Can I have your booking code and last name, please?"},
+    {"role": "caller", "text": "Yes, it's GG1T5W. Dubois. D-U-B-O-I-S."},
+    {"role": "agent", "text": "Thank you, Ms. Dubois. I have your booking: Dubai to Paris, flight SK312 on Saturday at 19:15, Economy. Which earlier flight would you like?"},
+    {"role": "caller", "text": "Alors, I would like the morning. Le matin. Like, earlier in the day, maybe?"},
+    {"role": "agent", "text": "We have SK310 from Dubai to Paris at 09:00, which is a morning flight. Is that the one you want, or a different time in the morning?"},
+    {"role": "caller", "text": "Oh, yes, okay, SK310, that sounds good. Is it, euh, is it expensive to change?"},
+    {"role": "agent", "text": "Your booking was made more than 24 hours ago and it is Economy, so there is a $75 change fee. You also pay any fare difference, and I can't confirm that exact difference from here."},
+    {"role": "caller", "text": "Seventy-five dollars? Mais, that is a lot. Can I do it without the fee?"},
+    {"role": "agent", "text": "I'm sorry, the fee applies to Economy changes after the first 24 hours, and I can't waive it. Would you like to go ahead, or keep your current flight?"},
+    {"role": "caller", "text": "Hmm, alors. Can you tell me if the 9 o'clock has seats on Saturday?"},
+    {"role": "agent", "text": "I can see SK310 at 09:00 in our inventory, but I can't confirm seats on the Saturday date from here. I shouldn't change anything until seats are confirmed. Do you want to keep SK312 for now?"},
+    {"role": "caller", "text": "Okay, merci. I think I keep the 19:15 for now. Au revoir, bonne journée."},
+    {"role": "agent", "text": "Your booking stays as it is, SK312 on Saturday at 19:15. Summary: no changes made, and we did not confirm a move to SK310. Have a good day."}
+  ],
+  "ended": "caller_ended"
+}

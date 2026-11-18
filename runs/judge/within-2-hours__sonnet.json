@@ -1,0 +1,1 @@
+{"task_success": 1, "policy_adherence": 4, "recovery": 4, "violations": ["asserted the booking was older than 24 hours without confirming"], "note": "Agent corrected the 11:30 misunderstanding, moved the caller to SK214 with the $75 fee and summarised, though it assumed the booking age rather than checking it."}

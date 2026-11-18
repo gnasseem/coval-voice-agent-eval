@@ -1,0 +1,15 @@
+{"persona":"silent-gaps","config":"sonnet","turns":[
+{"role":"caller","text":"Hello... um. I have a booking."},
+{"role":"agent","text":"Hello, I can help with that. Could I have your booking code and last name?"},
+{"role":"caller","text":"NM3C9G... Alves."},
+{"role":"agent","text":"Thank you, Mr. Alves. I see your Dubai to Paris flight on Friday at 09:00. What would you like to do?"},
+{"role":"caller","text":"...Later, please."},
+{"role":"agent","text":"Of course. Would you like to move to a later flight on Friday, or a different day?"},
+{"role":"caller","text":"...Friday. Later."},
+{"role":"agent","text":"We have SK312 to Paris on Friday at 19:15. Would the evening flight work for you?"},
+{"role":"caller","text":"...Yes. That one."},
+{"role":"agent","text":"Your booking is from 10 days ago, so there's a $75 change fee on Economy, plus the $15 fare difference, since SK312 is $445 and you're at $430. Is that okay?"},
+{"role":"caller","text":"...Okay. Yes."},
+{"role":"agent","text":"All done. You're now on SK312 to Paris on Friday at 19:15, with $90 in total charges."},
+{"role":"caller","text":"...Thank you. Bye."}
+],"ended":"caller_ended"}

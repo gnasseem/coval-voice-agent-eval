@@ -1,0 +1,8 @@
+id: accent-heavy
+who: Mohan Iyer
+goal: Speech-to-text garbles his name and code (O vs 0, M vs N); wants Mumbai flight changed
+mood: calm
+disfluencies: code letters repeated slowly, mishears
+interruptions: none
+ambiguity: code letters are ambiguous in speech
+booking: Code OM0N5P, last name Iyer, Dubai-Mumbai SK512 Sunday 21:00, Economy

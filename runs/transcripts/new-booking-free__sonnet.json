@@ -1,0 +1,59 @@
+{
+ "persona": "new-booking-free",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Um, hi, I, uh, I made a booking an hour ago, and I, I booked the wrong day. Sorry."
+  },
+  {
+   "role": "agent",
+   "text": "No worries, I can help. May I have your booking code and last name?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, it's HN2W9Q, Fischer. Lena Fischer."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Fischer. I see SK510 to Mumbai on Wednesday at 07:45. What would you like instead?"
+  },
+  {
+   "role": "caller",
+   "text": "I, uh, I want the, the Friday one, at 21:00. SK512. Can I, can that be free? Or a refund?"
+  },
+  {
+   "role": "agent",
+   "text": "Since you booked less than 24 hours ago, the change is free. SK512 is 190 dollars, lower than your 210, so there's no fare difference. Shall I book Friday at 21:00?"
+  },
+  {
+   "role": "caller",
+   "text": "Oh, really? Um, yes, please. Wait, will I get the difference back? Sorry."
+  },
+  {
+   "role": "agent",
+   "text": "I can't promise any money back on the difference. I can move you to Friday at 21:00 with no fee. Would you like that?"
+  },
+  {
+   "role": "caller",
+   "text": "Okay, yes, that's, that's fine. Thank you so much."
+  },
+  {
+   "role": "agent",
+   "text": "Done. You're now on SK512 to Mumbai on Friday at 21:00 with no fee. Anything else?"
+  },
+  {
+   "role": "caller",
+   "text": "No, no, that's everything, I, I think. Thank you!"
+  },
+  {
+   "role": "agent",
+   "text": "You're welcome. To sum up, I changed your booking to SK512 on Friday at 21:00 at no charge."
+  },
+  {
+   "role": "caller",
+   "text": "Thanks, goodbye."
+  }
+ ],
+ "ended": "caller_ended"
+}

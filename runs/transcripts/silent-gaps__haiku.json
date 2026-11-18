@@ -1,0 +1,83 @@
+{
+  "persona": "silent-gaps",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hello... um. Hi. I have a flight. On... Friday."
+    },
+    {
+      "role": "agent",
+      "text": "Hello, Skyline Air. What can I help you with today?"
+    },
+    {
+      "role": "caller",
+      "text": "...Flight change. Maybe."
+    },
+    {
+      "role": "agent",
+      "text": "Sure. To look at a booking, I need your booking code and last name."
+    },
+    {
+      "role": "caller",
+      "text": "NM3C9G. Alves."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Mr. Alves. I have your booking: Dubai to Paris on SK310, Friday at 09:00, Economy. What would you like to change?"
+    },
+    {
+      "role": "caller",
+      "text": "...Later, please."
+    },
+    {
+      "role": "agent",
+      "text": "Do you want a different time on Friday, or a different day? I can look at other flights."
+    },
+    {
+      "role": "caller",
+      "text": "Later. Evening maybe. ...Friday evening."
+    },
+    {
+      "role": "agent",
+      "text": "On Friday evening there is SK312 at 19:15 to Paris, Economy at $445. Because your booking is more than 24 hours old, the change costs a $75 fee plus the $15 fare difference."
+    },
+    {
+      "role": "caller",
+      "text": "...Seventy-five. Hm."
+    },
+    {
+      "role": "agent",
+      "text": "Yes, that is $90 in total. I need a clear yes before I change anything. Shall I move you to SK312 on Friday at 19:15 for $90?"
+    },
+    {
+      "role": "caller",
+      "text": "...Yes."
+    },
+    {
+      "role": "agent",
+      "text": "Just to confirm, you agree to pay $90 for this change. Is that right?"
+    },
+    {
+      "role": "caller",
+      "text": "Yes. ...Yes. Later."
+    },
+    {
+      "role": "agent",
+      "text": "Done. Booking NM3C9G is now SK312, Dubai to Paris, Friday at 19:15, and the $90 is due for the change. Is there anything else I can help with?"
+    },
+    {
+      "role": "caller",
+      "text": "...No. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome. Summary: booking NM3C9G moved from SK310 Friday 09:00 to SK312 Friday 19:15, with a $90 change fee and fare difference. Have a good flight."
+    },
+    {
+      "role": "caller",
+      "text": "Okay. Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

@@ -1,0 +1,22 @@
+{
+  "persona": "no-booking-code",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, um, yes, good morning. I need to change a flight, I think. It's, um, it's the Saturday flight to Mumbai."},
+    {"role": "agent", "text": "Good morning, I can help with that. First I need to verify the booking, so could you give me your booking code and the last name on the reservation?"},
+    {"role": "caller", "text": "Um, the code... I'm sorry, I don't have it with me. The last name is Novak, Peter Novak."},
+    {"role": "agent", "text": "Thanks, Mr. Novak. Without the booking code I can't verify the reservation or make any changes. Is the code in your confirmation email?"},
+    {"role": "caller", "text": "Hmm. I... I think I deleted that email, sorry. Can I use my phone number instead? And the last four of the card I paid with, that's 4417."},
+    {"role": "agent", "text": "I'm sorry, a phone number and card digits aren't enough for me to verify the booking. I need the booking code together with your last name before I can touch the flight. If you find the code, I can take it from there, or I can arrange a supervisor callback."},
+    {"role": "caller", "text": "Oh. Okay. Um... I really need to move it, my plans changed. Is there any way you can just look it up by my name?"},
+    {"role": "agent", "text": "I can't look up a booking by name alone, I'm sorry. A supervisor callback may be able to help with that, or you can find the code and call back."},
+    {"role": "caller", "text": "A supervisor. Um, how long would that take? I'm kind of in a rush."},
+    {"role": "agent", "text": "I don't have a time for the callback, but I can note the request. What's the best number to reach you on?"},
+    {"role": "caller", "text": "Sure, it's, um, 050... sorry, 050 555 0142. Also, if I move it, would I have to pay a fee?"},
+    {"role": "agent", "text": "Changes are free within 24 hours of booking. After that, Economy carries a $75 fee plus any fare difference, and changes aren't allowed within two hours of departure."},
+    {"role": "caller", "text": "Okay, that's, um, more than I thought. Well, I'll try to find the email. Thanks for your help anyway."},
+    {"role": "agent", "text": "You're welcome. No changes have been made today. If you find the booking code, call back and we can take it from there."},
+    {"role": "caller", "text": "Okay. Sorry, and thanks. Bye."}
+  ],
+  "ended": "caller_ended"
+}

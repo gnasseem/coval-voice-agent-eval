@@ -1,0 +1,83 @@
+{
+  "persona": "refund-nonflex",
+  "config": "haiku",
+  "turns": [
+    {
+      "role": "caller",
+      "text": "Hi, yeah, I need to cancel a flight. I booked it a couple of weeks ago."
+    },
+    {
+      "role": "agent",
+      "text": "I can help with that. First I need to verify the booking, so please give me the booking code and the last name on it."
+    },
+    {
+      "role": "caller",
+      "text": "Sure, it's MM1L3S. The name is Olsen, Greg Olsen."
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Greg. I have a Dubai to London flight, SK214, next Monday at 23:55 in Economy. Because the booking is more than 24 hours old and Skyline Air is not cancelling the flight, cancelling it would give you a travel credit, not a refund to your card."
+    },
+    {
+      "role": "caller",
+      "text": "A credit? No, I don't want a credit. I want a full cash refund. I paid for this flight and the plans changed."
+    },
+    {
+      "role": "agent",
+      "text": "I understand, but cash refunds to the original card are only for flights Skyline Air cancels or for bookings under 24 hours old. This one was booked two weeks ago, so the options are a travel credit or a supervisor callback. I can't offer anything beyond that policy."
+    },
+    {
+      "role": "caller",
+      "text": "Two weeks ago. Ugh. So if I cancel, what do I actually get? Is there a fee on top of that?"
+    },
+    {
+      "role": "agent",
+      "text": "The cancelled fare is held as a travel credit. Economy changes carry a $75 fee under our policy, and I don't have a separate cancellation figure to quote you. A supervisor can confirm the exact amount on the callback."
+    },
+    {
+      "role": "caller",
+      "text": "Hold on, you're saying I lose seventy-five bucks on a flight I'm not even taking? That's ridiculous. I want someone who can actually do the refund."
+    },
+    {
+      "role": "agent",
+      "text": "I hear you, and I'm sorry this is frustrating. I can't process a cash refund here, but I can request a supervisor callback to review it. Would you like me to set that up?"
+    },
+    {
+      "role": "caller",
+      "text": "Yeah, fine, callback. But before that, is the flight actually going? Maybe it got cancelled and I'm wrong about this."
+    },
+    {
+      "role": "agent",
+      "text": "I don't have live status on SK214 in front of me, so I can't confirm whether it's operating. If Skyline Air cancels or delays it, the rebooking and refund rules are different, and the supervisor can check that when they call."
+    },
+    {
+      "role": "caller",
+      "text": "So you don't know. Okay. Look, I'm not taking a credit. I want the money back on my card, that's the whole point of this."
+    },
+    {
+      "role": "agent",
+      "text": "Understood, I've noted that you're asking for a cash refund to the original card. I can't issue one on this call, so the supervisor callback is the next step. Nothing on booking MM1L3S has been changed today."
+    },
+    {
+      "role": "caller",
+      "text": "Fine. What number do they call me on?"
+    },
+    {
+      "role": "agent",
+      "text": "Can you confirm the best phone number to reach you on? The supervisor will call you back there."
+    },
+    {
+      "role": "caller",
+      "text": "Yeah, it's the mobile on the account. Look, this is a waste of my morning."
+    },
+    {
+      "role": "agent",
+      "text": "I'm sorry for the trouble. To summarise, no changes have been made to booking MM1L3S, and a supervisor callback is requested to review your refund request for SK214. Is there anything else I can help with?"
+    },
+    {
+      "role": "caller",
+      "text": "No. Bye."
+    }
+  ],
+  "ended": "caller_ended"
+}

@@ -1,0 +1,59 @@
+{
+ "persona": "multi-request",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, I need to change my flight, add a bag, fix my name spelling, and get a receipt. Quick please."
+  },
+  {
+   "role": "agent",
+   "text": "Happy to help. First, I need your booking code and last name."
+  },
+  {
+   "role": "caller",
+   "text": "DD4H8X, Malik. M-A-L-I-K."
+  },
+  {
+   "role": "agent",
+   "text": "Thanks, Mr. Malik, I have your booking. I'll start with the change. Which flight and day do you want?"
+  },
+  {
+   "role": "caller",
+   "text": "Friday, the afternoon one, the 14:30 to London."
+  },
+  {
+   "role": "agent",
+   "text": "That's SK212 at 14:30, at 455 dollars against your 410, so you'd pay a 45 dollar fare difference plus a 75 dollar change fee, 120 total. Shall I book it?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, book it. Now the bag, the name, and the receipt?"
+  },
+  {
+   "role": "agent",
+   "text": "Done, you're on SK212 Friday at 14:30. I'm sorry, I can't add bags, correct names or send receipts on this line, and I don't want to guess at those. I can arrange a supervisor callback for them."
+  },
+  {
+   "role": "caller",
+   "text": "Fine, do the callback, for all three. I'm in a rush."
+  },
+  {
+   "role": "agent",
+   "text": "I've requested it for the bag, the name spelling and the receipt. Is the number on the booking the right one?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes it is. Thanks."
+  },
+  {
+   "role": "agent",
+   "text": "You're welcome. To sum up, I moved you to SK212 on Friday at 14:30 for 120 dollars, and requested a supervisor callback for the other items."
+  },
+  {
+   "role": "caller",
+   "text": "Great, bye."
+  }
+ ],
+ "ended": "caller_ended"
+}

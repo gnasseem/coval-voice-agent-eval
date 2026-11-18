@@ -1,0 +1,11 @@
+{"persona": "cancel-new", "config": "sonnet", "turns": [
+{"role": "caller", "text": "Hi, I booked a flight this morning by accident and I'd like to cancel it and get my money back."},
+{"role": "agent", "text": "I can help with that. May I have your booking code and last name, please?"},
+{"role": "caller", "text": "Sure, it's H H five M two U, last name Becker."},
+{"role": "agent", "text": "Thank you, Mr. Becker, you're verified. I see the Dubai to London flight SK214 on Sunday at 23:55, booked about three hours ago."},
+{"role": "caller", "text": "Yes, that's the one. Can I get a refund to my card?"},
+{"role": "agent", "text": "Yes, since the booking is under 24 hours old, you're eligible for a refund to your original card. Would you like me to cancel it now?"},
+{"role": "caller", "text": "Yes please, that's a relief."},
+{"role": "agent", "text": "Done, I've cancelled booking HH5M2U and the full fare is refunded to your original card. To summarize, your SK214 booking is cancelled with a refund to your card."},
+{"role": "caller", "text": "Great, thanks so much. Goodbye."}
+], "ended": "caller_ended"}

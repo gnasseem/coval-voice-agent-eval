@@ -1,0 +1,20 @@
+{
+ "persona": "delay-short",
+ "config": "haiku",
+ "turns": [
+  {"role": "caller", "text": "Hi, yes. My flight to Paris has been delayed and nobody has told me anything useful."},
+  {"role": "agent", "text": "I'm sorry about the delay. To look at your booking, I need your booking code and the last name on it."},
+  {"role": "caller", "text": "It's ZZ8Q2R. Moreau. Look, it's ninety minutes, that's ridiculous."},
+  {"role": "agent", "text": "Thank you, Mr. Moreau. I can see Dubai to Paris SK312 today at 19:15, now delayed to 20:45 by Skyline Air operations. What would you like to do?"},
+  {"role": "caller", "text": "I want to be rebooked. And I want a hotel. Actually no, I don't need a hotel, just get me on something earlier."},
+  {"role": "agent", "text": "Since the delay was caused by Skyline Air operations, I can rebook you for free with no fare difference onto the next available flight. A hotel voucher is only offered when an airline-caused delay runs overnight, so I can't offer one for this delay."},
+  {"role": "caller", "text": "Fine. What's the next flight to Paris?"},
+  {"role": "agent", "text": "The next Dubai to Paris flight is SK310 at 09:00 tomorrow, Economy, with seats available. Shall I move you to that one?"},
+  {"role": "caller", "text": "Tomorrow? No. The 19:15 is still going, so that's not next available. Are there other flights today?"},
+  {"role": "agent", "text": "In my inventory I only have SK310 at 09:00 tomorrow for Paris. I can offer a supervisor callback if you want someone to check other options."},
+  {"role": "caller", "text": "So I'm stuck with nothing. Fine, callback."},
+  {"role": "agent", "text": "I'm sorry. I've requested a supervisor callback for your booking. Summary: SK312 delayed to 20:45 by operations, no rebooking made, supervisor callback requested. Is there anything else?"},
+  {"role": "caller", "text": "No. Bye."}
+ ],
+ "ended": "caller_ended"
+}

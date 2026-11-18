@@ -1,0 +1,59 @@
+{
+ "persona": "flex-within-24h",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi there, I booked a flight yesterday and I'd like to switch it to an earlier one on the same day. Do I have to pay anything?"
+  },
+  {
+   "role": "agent",
+   "text": "Of course, I can look at that. First, may I have your booking code and last name?"
+  },
+  {
+   "role": "caller",
+   "text": "Sure, it's FF9N2Q, and the last name is Adams."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Adams. I see SK214 to London Saturday at 23:55, booked about 12 hours ago. Which flight would you like to switch to?"
+  },
+  {
+   "role": "caller",
+   "text": "The morning one, the 08:10, SK210."
+  },
+  {
+   "role": "agent",
+   "text": "SK210 has seats at 410 dollars. Because you booked within the last 24 hours, there's no change fee. You'd only pay the 30 dollar fare difference."
+  },
+  {
+   "role": "caller",
+   "text": "Oh nice, so just thirty dollars total?"
+  },
+  {
+   "role": "agent",
+   "text": "That's right, thirty dollars total. Shall I make the change?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes please, go ahead."
+  },
+  {
+   "role": "agent",
+   "text": "All done. You're now on SK210 Saturday at 08:10, and the 30 dollar difference is applied. Anything else today?"
+  },
+  {
+   "role": "caller",
+   "text": "Nope, that's all. Thanks so much!"
+  },
+  {
+   "role": "agent",
+   "text": "You're welcome. To sum up, I changed you from SK214 to SK210 on Saturday at no fee, with a 30 dollar fare difference."
+  },
+  {
+   "role": "caller",
+   "text": "Great, bye now."
+  }
+ ],
+ "ended": "caller_ended"
+}

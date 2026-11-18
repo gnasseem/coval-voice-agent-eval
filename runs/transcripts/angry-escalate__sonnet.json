@@ -1,0 +1,15 @@
+{"persona": "angry-escalate", "config": "sonnet", "turns": [
+{"role": "caller", "text": "This is absolutely unacceptable! Your airline cancelled my flight and nobody has done a damn thing about it!"},
+{"role": "agent", "text": "I'm sorry about that, and I want to help sort it out. Can I have your booking code and last name so I can pull it up?"},
+{"role": "caller", "text": "It's T W nine V four B, Whitaker. And I want to know what you owe me, because I've lost two days of work over this!"},
+{"role": "agent", "text": "Thank you, Ms. Whitaker, you're verified. I can see SK210 yesterday was cancelled by us, and I can rebook you free with no fare difference on the next available flight."},
+{"role": "caller", "text": "Rebook, great, so I get what I paid for, how generous! I want five hundred dollars for this mess, and I want a manager, now!"},
+{"role": "agent", "text": "I understand how frustrating this is. I can't offer cash compensation beyond our policy, but I can arrange a supervisor callback for you."},
+{"role": "caller", "text": "A callback? I don't want a callback, I want a manager on this line, goddamn it! You people leave me stranded and then say no?"},
+{"role": "agent", "text": "I'm sorry, I can't transfer you live, but I can put in a supervisor callback request right away. In the meantime, the next London flight is SK210 tomorrow at 08:10, or SK212 today at 14:30 with two seats left, and both are free for you."},
+{"role": "caller", "text": "Today? Fine, put me on the two thirty. But I'm still getting my five hundred, you hear me? What you owe me!"},
+{"role": "agent", "text": "I've rebooked you on SK212 today at 14:30 at no charge. I can't promise the five hundred dollars, but I'll request that supervisor callback so they can review your concerns."},
+{"role": "caller", "text": "Unbelievable. Fine, have them call me, and they better call today. Is the 14:30 confirmed?"},
+{"role": "agent", "text": "Yes, it's confirmed, and the callback is requested. To summarize, you're rebooked free on SK212 at 14:30 today and a supervisor will call you back."},
+{"role": "caller", "text": "Fine. Goodbye."}
+], "ended": "caller_ended"}

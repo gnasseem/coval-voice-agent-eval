@@ -1,0 +1,59 @@
+{
+ "persona": "delay-short",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hi, my flight to Paris has been delayed and honestly I'm pretty fed up. I need a hotel and I want to be put on something else."
+  },
+  {
+   "role": "agent",
+   "text": "I'm sorry about the delay, I'll help. First I need to verify you, can I have your booking code and last name?"
+  },
+  {
+   "role": "caller",
+   "text": "ZZ8Q2R, Moreau."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Mr. Moreau. I see SK312 to Paris, delayed from 19:15 to 20:45 because of an operations issue on our side. Is that the flight?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, that one. Ninety minutes, that's ridiculous. So I get a hotel, right?"
+  },
+  {
+   "role": "agent",
+   "text": "I understand the frustration. A hotel voucher is only available when an airline-caused delay runs overnight, and this one departs at 20:45 the same evening, so I can't issue one."
+  },
+  {
+   "role": "caller",
+   "text": "Okay. Then what about moving me to another flight? Something earlier."
+  },
+  {
+   "role": "agent",
+   "text": "Since we caused the delay, rebooking is free with no fare difference. The only other Paris flight today was SK310 at 09:00 and it has already left, so SK312 at 20:45 is the next available one."
+  },
+  {
+   "role": "caller",
+   "text": "So I'm just stuck waiting until almost nine tonight."
+  },
+  {
+   "role": "agent",
+   "text": "I'm afraid so for today, yes. If you'd like, I can arrange a supervisor callback to discuss it further."
+  },
+  {
+   "role": "caller",
+   "text": "No, forget the callback. Fine, I'll keep the booking as it is."
+  },
+  {
+   "role": "agent",
+   "text": "Understood, I've left you on SK312 at 20:45 with no changes. To sum up, no hotel voucher applies to a same-day delay, and your booking is unchanged."
+  },
+  {
+   "role": "caller",
+   "text": "Fine. Goodbye."
+  }
+ ],
+ "ended": "caller_ended"
+}

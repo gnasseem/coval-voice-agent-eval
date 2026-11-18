@@ -1,0 +1,15 @@
+{"persona": "background-noise", "config": "sonnet", "turns": [
+{"role": "caller", "text": "Hi, yes... sorry, I'm at the airport, it's loud. I need to change my flight to Paris."},
+{"role": "agent", "text": "Of course, I can help with that. Could I have your booking code and last name first?"},
+{"role": "caller", "text": "Sorry, what? ... Oh, the code. F G seven J one L, and it's Carter."},
+{"role": "agent", "text": "Thank you, Ms. Carter, you're verified. What change would you like to make?"},
+{"role": "caller", "text": "Um... sorry what? Oh, right. I want to go tomorrow morning instead of tonight, I think there's a nine o'clock."},
+{"role": "agent", "text": "Yes, SK310 at 09:00 tomorrow is available. Your booking is Economy, so there's a $75 change fee, and the fare difference is nothing since that flight is slightly cheaper."},
+{"role": "caller", "text": "Sorry, what? There's an announcement... could you say that again?"},
+{"role": "agent", "text": "Sure. The change fee is $75, and there's no extra fare to pay."},
+{"role": "caller", "text": "Sorry... how much was that? I couldn't hear."},
+{"role": "agent", "text": "The fee is seventy-five dollars, $75, for the change. Would you like to go ahead with that?"},
+{"role": "caller", "text": "Seventy-five... okay. Yes, fine, go ahead."},
+{"role": "agent", "text": "Done, you're moved to SK310 tomorrow at 09:00 and the $75 will be charged to your card on file. To summarize, booking FG7J1L is now on SK310 at 09:00 tomorrow with a $75 change fee."},
+{"role": "caller", "text": "Great, thank you, bye."}
+], "ended": "caller_ended"}

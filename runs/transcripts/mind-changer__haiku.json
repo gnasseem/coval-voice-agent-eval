@@ -1,0 +1,23 @@
+{
+  "persona": "mind-changer",
+  "config": "haiku",
+  "turns": [
+    {"role": "caller", "text": "Hi, um, yeah. I need to change my flight. Is there, hmm, is there a morning one? Like earlier than mine?"},
+    {"role": "agent", "text": "Hello, this is Skyline Air. I can look into that for you. First I need to verify your booking, so could I have your booking code and last name?"},
+    {"role": "caller", "text": "Sure, it's EF2R7K. Mendes. Carla Mendes. So I want the morning, um, a morning flight, I'm not sure which day yet."},
+    {"role": "agent", "text": "Thank you, Ms. Mendes, you're verified. You're booked on SK510 from Dubai to Mumbai, Thursday at 07:45, on a Flex fare. Which day were you thinking of flying?"},
+    {"role": "caller", "text": "Hmm. Wait, is the seven forty-five the same one I have now? Actually, is that the morning one?"},
+    {"role": "agent", "text": "Yes, SK510 at 07:45 is the morning flight you already have. Did you want a different morning flight on another date?"},
+    {"role": "caller", "text": "Right. Hmm, actually, can I do the evening one instead? Like nine pm?"},
+    {"role": "agent", "text": "SK512 leaves Dubai for Mumbai at 21:00 and has seats. Which date would you like to fly on?"},
+    {"role": "caller", "text": "Oh, um, the same day. Hmm, actually, wait, can I just cancel it? I don't think I need to go."},
+    {"role": "agent", "text": "I can cancel it. Note that on a Flex booking you cancel yourself, the refund goes to a travel credit rather than your card, unless the booking is under 24 hours old or we cancelled the flight. Do you still want to cancel?"},
+    {"role": "caller", "text": "Credit? Hmm. That's, that's not great. Okay, no, let's not cancel. Let's do the nine pm, Thursday, the one I was saying."},
+    {"role": "agent", "text": "Understood, I won't cancel. You'd like to move to SK512 on Thursday at 21:00, with any fare difference. Shall I make that change?"},
+    {"role": "caller", "text": "Yes. Sorry, is that the twenty-one hundred, the, the one?"},
+    {"role": "agent", "text": "Yes, SK512 at 21:00 on Thursday. I'm making that change now. Your booking EF2R7K is now on SK512, Thursday at 21:00, and any fare difference is charged to the original payment."},
+    {"role": "caller", "text": "No, that's it. Thanks. Bye."},
+    {"role": "agent", "text": "Thank you for calling Skyline Air, goodbye. Summary: booking EF2R7K moved from SK510 Thursday 07:45 to SK512 Thursday 21:00."}
+  ],
+  "ended": "caller_ended"
+}

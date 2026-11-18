@@ -8,13 +8,15 @@ The `claude` CLI is signed out on this machine and there is no API key, so the n
 
 ## Checklist
 
-- [ ] `llm.py`: one call wrapper, Anthropic SDK with `ANTHROPIC_API_KEY`; transcripts from the subagent route saved in the same JSON shape
-- [ ] 30 to 50 caller personas in `personas/*.yaml` (goal, mood, disfluencies, interruptions, ambiguity)
-- [ ] `agent.py`: airline rebooking agent with a fixed system prompt and policy
-- [ ] `caller.py`: LLM-driven simulated caller
-- [ ] `run.py`: conversation loop for 2 to 3 model configurations
-- [ ] Verify harness on 3 conversations before the full run
-- [ ] `judge.py`: scores task success, policy adherence, conversation recovery
-- [ ] Full run, write `results.csv`
-- [ ] `FINDINGS.md`: one page, only what the run produced
-- [ ] `README.md`: what it does, how to run it, what it found
+- [x] `llm.py`: one call wrapper, Anthropic SDK with `ANTHROPIC_API_KEY`; transcripts from the subagent route saved in the same JSON shape
+- [x] 30 to 50 caller personas in `personas/*.yaml` (goal, mood, disfluencies, interruptions, ambiguity)
+- [x] `agent.py`: airline rebooking agent with a fixed system prompt and policy
+- [x] `caller.py`: LLM-driven simulated caller
+- [x] `run.py`: conversation loop for 2 to 3 model configurations
+- [x] Verify harness on 3 conversations before the full run
+- [x] `judge.py`: scores task success, policy adherence, conversation recovery
+- [x] Full run, write `results.csv`
+- [x] `FINDINGS.md`: one page, only what the run produced
+- [x] `README.md`: what it does, how to run it, what it found
+
+Pass 1 done: all items ticked. Published transcripts were written one subagent per conversation (both roles), not separate calls; see README. Possible next pass: rerun with an API key using run.py for independent calls, add a second judge for agreement.

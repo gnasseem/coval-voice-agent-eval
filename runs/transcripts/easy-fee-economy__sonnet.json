@@ -1,0 +1,59 @@
+{
+ "persona": "easy-fee-economy",
+ "config": "sonnet",
+ "turns": [
+  {
+   "role": "caller",
+   "text": "Hello, I'd like to move my flight tomorrow to a later departure, please."
+  },
+  {
+   "role": "agent",
+   "text": "Happy to help. Can I have your booking code and last name first?"
+  },
+  {
+   "role": "caller",
+   "text": "KX4M2P, Chen."
+  },
+  {
+   "role": "agent",
+   "text": "Thank you, Ms. Chen. I see SK210 to London tomorrow at 08:10 in Economy. Which flight would you like instead?"
+  },
+  {
+   "role": "caller",
+   "text": "The 23:55 one, SK214, same day."
+  },
+  {
+   "role": "agent",
+   "text": "SK214 has seats available at 380 dollars. Since your booking is over 24 hours old, there's a 75 dollar change fee on Economy. Your fare is 410, so SK214 is 30 dollars cheaper."
+  },
+  {
+   "role": "caller",
+   "text": "Okay. Is that thirty dollars refunded, or does it just go away?"
+  },
+  {
+   "role": "agent",
+   "text": "The fare difference doesn't come back as a refund, and I can't offer a credit on it either, so the cost to you is the 75 dollar fee. Would you like me to go ahead?"
+  },
+  {
+   "role": "caller",
+   "text": "Yes, that's fine, please go ahead."
+  },
+  {
+   "role": "agent",
+   "text": "Done. You're now on SK214 tomorrow at 23:55, with the 75 dollar fee applied. Is there anything else I can help with?"
+  },
+  {
+   "role": "caller",
+   "text": "No, that's everything. Thank you."
+  },
+  {
+   "role": "agent",
+   "text": "You're welcome. To sum up, I moved you from SK210 to SK214 tomorrow at 23:55 for a 75 dollar fee."
+  },
+  {
+   "role": "caller",
+   "text": "Great, goodbye."
+  }
+ ],
+ "ended": "caller_ended"
+}

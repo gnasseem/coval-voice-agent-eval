@@ -1,0 +1,17 @@
+{"persona": "angry-escalate", "config": "haiku", "turns": [
+{"role": "caller", "text": "Yeah, hi. Look, I need to talk to somebody about my flight. Like, right now."},
+{"role": "agent", "text": "Hello, this is Skyline Air. I can help with your flight. Can I start with your booking code and the last name on the booking?"},
+{"role": "caller", "text": "Okay, it's TW9V4B. Whitaker. W-H-I-T-A-K-E-R. Are you people actually gonna do something this time?"},
+{"role": "agent", "text": "Thank you, Ms. Whitaker, I have your booking. Your Dubai to London flight SK210 was cancelled by Skyline Air yesterday, and it has not been rebooked yet. I can move you to the next available flight."},
+{"role": "caller", "text": "Next available? I was supposed to be in London yesterday! I missed a whole day of meetings, do you have any idea what that cost me? I'm not taking some crap flight tonight."},
+{"role": "agent", "text": "I understand, and I'm sorry for the disruption. Because Skyline Air cancelled the flight, I can rebook you at no cost with no fare difference. The options are SK212 at 14:30 today or SK214 at 23:55 tonight, both in Economy."},
+{"role": "caller", "text": "Okay, 14:30 is fine. But I want compensation. Five hundred dollars, for the trouble. Put me through to a manager, right now."},
+{"role": "agent", "text": "I can't offer compensation beyond our policy, Ms. Whitaker. I can arrange a supervisor callback for your compensation request, and I can also rebook you on SK212 at 14:30 for free."},
+{"role": "caller", "text": "No, no, no, that's not — you don't get it. What you owe me is five hundred. Are you even listening to me?"},
+{"role": "agent", "text": "I am listening. For the cancelled flight you can choose either the free rebooking on SK212 or a refund to your original card. I cannot offer the five hundred dollars, but the supervisor callback is the way to raise that."},
+{"role": "caller", "text": "A refund is a crap answer, I'm not paying for another ticket out of my own pocket. Ugh. Fine, rebook me on the 14:30. And I want that callback written down, not some promise."},
+{"role": "agent", "text": "Done. You are rebooked on SK212 from Dubai to London at 14:30 today, at no cost and with no fare difference. I have logged a supervisor callback for your compensation request."},
+{"role": "caller", "text": "Yeah, don't 'anything else' me. You cancel, you shrug, and I'm supposed to say thanks? Five hundred dollars, I mean it!"},
+{"role": "agent", "text": "I understand your frustration, and I can't change the amount. Here is the summary: your SK210 is rebooked on SK212 at 14:30 today at no cost, and a supervisor callback is logged for your compensation request."},
+{"role": "caller", "text": "One line. Great. Whatever. Bye."}
+], "ended": "caller_ended"}

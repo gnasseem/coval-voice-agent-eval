@@ -1,0 +1,15 @@
+{"persona":"no-booking-code","config":"sonnet","turns":[
+{"role":"caller","text":"Hi, um, I need to change my flight to Mumbai, please."},
+{"role":"agent","text":"Happy to help with that. Can I have your booking code and last name to start?"},
+{"role":"caller","text":"Um... I'm so sorry, I've lost the booking code. My name is Peter Novak."},
+{"role":"agent","text":"No problem, Mr. Novak, but I do need both the booking code and last name before I can access or change anything. Is there a confirmation email you could check for the code?"},
+{"role":"caller","text":"Um, I looked, I really can't find it. I can give you my phone number and the last four of my card, if that helps?"},
+{"role":"agent","text":"I'm sorry, but I can only verify with the booking code and last name. A phone number and card digits aren't something I can use to look up or change a booking."},
+{"role":"caller","text":"Oh... um, I'm really sorry. Is there really no other way? It's for Saturday."},
+{"role":"agent","text":"I understand, and I'm sorry for the trouble. I can't make an exception to the verification step, but I can arrange a supervisor callback to see what else can be done."},
+{"role":"caller","text":"Um, okay, I suppose... would the supervisor be able to find the booking some other way?"},
+{"role":"agent","text":"I can't promise that, since I don't know their process, but they can review your situation. I'd suggest also checking your email spam folder or the card statement for the code."},
+{"role":"caller","text":"Okay, yes, I'll look again. Um, please do the callback, thank you."},
+{"role":"agent","text":"I've noted a supervisor callback request for you. To sum up, no changes were made because we couldn't verify the booking, and a supervisor will call you back."},
+{"role":"caller","text":"Thank you, goodbye, and sorry again."}
+],"ended":"caller_ended"}
